@@ -16,6 +16,6 @@ mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@home /dev/sd
 mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@snapshots /dev/sda2 /mnt/.snapshots
 mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@var_log /dev/sda2 /mnt/var/log
 mount /dev/sda1 /mnt/boot
-pacstrap /mnt base linux linux-firmware git vim amd-ucode
+pacstrap /mnt base linux linux-firmware git dos2unix vim amd-ucode
 genfstab -U /mnt >> /mnt/etc/fstab
 arch-chroot /mnt
