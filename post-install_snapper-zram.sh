@@ -36,3 +36,7 @@ sudo chown :zerohack /.snapshots
 paru -S zramd
 sudo sed -e 's/\# MAX_SIZE=8192/MAX_SIZE=2048/' -i /etc/default/zramd
 sudo systemctl enable --now zramd.service
+
+## Using overlayfs to allow booted snapshots like a live-cd in non-persistent mode
+sudo sed -e 's/fsck)/fsck grub-btrfs-overlayfs)/' -i /etc/mkinitcpio.conf
+sudo mkinitcpio -P
