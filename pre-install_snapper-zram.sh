@@ -11,7 +11,7 @@ btrfs subvolume create /mnt/@snapshots
 btrfs subvolume create /mnt/@var_log
 umount /mnt
 mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@ /dev/sda2 /mnt
-mkdir -p /mnt/{boot,home,.snapshots}
+mkdir -p /mnt/{boot,home,.snapshots,var/log}
 mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@home /dev/sda2 /mnt/home
 mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@snapshots /dev/sda2 /mnt/.snapshots
 mount -o noatime,compress=zstd,space_cache=v2,discard=async,subvol=@var_log /dev/sda2 /mnt/var/log
