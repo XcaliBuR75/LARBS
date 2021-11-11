@@ -1,0 +1,11 @@
+dmenu-distrotube
+dmscripts
+dtos-dmscripts
+dtos-local-bin
+dtos-xmobar
+shell-color-scripts
+volumeicon
+xmobar
+otf-font-awesome
+ttf-mononoki
+ttf-ubuntu-font-family
