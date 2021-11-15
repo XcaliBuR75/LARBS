@@ -9,3 +9,6 @@ xmobar
 otf-font-awesome
 ttf-mononoki
 ttf-ubuntu-font-family
+dtos-xmonad
+xmonad
+xmonad-contrib
