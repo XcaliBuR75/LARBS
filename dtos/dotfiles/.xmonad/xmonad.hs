@@ -76,7 +76,7 @@ myTerminal :: String
 myTerminal = "alacritty"    -- Sets default terminal
 
 myBrowser :: String
-myBrowser = "chromium "  -- Sets chromium as browser
+myBrowser = "google-chrome-unstable --ignore-certificate-errors "  -- Sets chromium as browser
 
 myEmacs :: String
 myEmacs = "emacsclient -c -a 'emacs' "  -- Makes emacs keybindings easier to type
@@ -372,7 +372,7 @@ myKeys =
         , ("M-p t", spawn "dm-translate") -- translate text (Google Translate)
 
     -- KB_GROUP Useful programs to have a keybinding for launch
-        , ("M-<Return>", spawn (myTerminal))
+        , ("M-<Return>", spawn (myTerminal ++ " msg create-window"))
         , ("M-b", spawn (myBrowser))
         , ("M-M1-h", spawn (myTerminal ++ " -e htop"))
         , ("M-M1-o", spawn "sxiv -rt $HOME/Downloads/images")
