@@ -2,7 +2,8 @@
 
 ln -sf /usr/share/zoneinfo/America/Buenos_Aires /etc/localtime
 hwclock --systohc
-sed -i '177s/.//' /etc/locale.gen
+#sed -i '177s/.//' /etc/locale.gen
+sed -e 's/^#en_US.UTF-8/en_US.UTF-8/' -i /etc/locale.gen
 locale-gen
 echo "LANG=en_US.UTF-8" > /etc/locale.conf
 echo "KEYMAP=la-latin1" > /etc/vconsole.conf
