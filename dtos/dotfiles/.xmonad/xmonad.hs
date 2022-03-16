@@ -76,7 +76,7 @@ myTerminal :: String
 myTerminal = "alacritty"    -- Sets default terminal
 
 myBrowser :: String
-myBrowser = "google-chrome-unstable --ignore-certificate-errors "  -- Sets chromium as browser
+myBrowser = "google-chrome-beta --ignore-certificate-errors "  -- Sets chromium as browser
 
 myEmacs :: String
 myEmacs = "emacsclient -c -a 'emacs' "  -- Makes emacs keybindings easier to type
@@ -86,7 +86,7 @@ myEditor = "emacsclient -c -a 'emacs' "  -- Sets emacs as editor
 -- myEditor = myTerminal ++ " -e vim "    -- Sets vim as editor
 
 myBorderWidth :: Dimension
-myBorderWidth = 2           -- Sets border width for windows
+myBorderWidth = 1           -- Sets border width for windows
 
 myNormColor :: String
 myNormColor   = "#282c34"   -- Border color of normal windows
@@ -167,10 +167,10 @@ myScratchPads = [ NS "terminal" spawnTerm findTerm manageTerm
     findTerm   = title =? "scratchpad"
     manageTerm = customFloating $ W.RationalRect l t w h
                where
-                 h = 0.9
-                 w = 0.9
-                 t = 0.95 -h
-                 l = 0.95 -w
+                 h = 0.75
+                 w = 0.75
+                 t = 0.85 -h
+                 l = 0.85 -w
     spawnMocp  = myTerminal ++ " -t mocp -e mocp"
     findMocp   = title =? "mocp"
     manageMocp = customFloating $ W.RationalRect l t w h
@@ -240,7 +240,7 @@ spirals  = renamed [Replace "spirals"]
            $ windowNavigation
            $ addTabs shrinkText myTabTheme
            $ subLayout [] (smartBorders Simplest)
-           $ mySpacing' 8
+           $ mySpacing 8
            $ spiral (6/7)
 threeCol = renamed [Replace "threeCol"]
            $ smartBorders
@@ -281,11 +281,11 @@ myTabTheme = def { fontName            = myFont
 -- Theme for showWName which prints current workspace when you change workspaces.
 myShowWNameTheme :: SWNConfig
 myShowWNameTheme = def
-    { swn_font              = "xft:Ubuntu:bold:size=60"
-    , swn_fade              = 1.0
-    , swn_bgcolor           = "#1c1f24"
-    , swn_color             = "#ffffff"
-    }
+     { swn_font              = "xft:Ubuntu:bold:size=60"
+     , swn_fade              = 0.5
+     , swn_bgcolor           = "#1c1f24"
+     , swn_color             = "#ffffff"
+     }
 
 -- The layout hook
 myLayoutHook = avoidStruts $ mouseResize $ windowArrange $ T.toggleLayouts floats
@@ -330,6 +330,7 @@ myManageHook = composeAll
      , title =? "Oracle VM VirtualBox Manager"  --> doFloat
      , title =? "Mozilla Firefox"     --> doShift ( myWorkspaces !! 1 )
      , className =? "Chromium"   --> doShift ( myWorkspaces !! 1 )
+     , className =? "Google-chrome-beta"   --> doShift ( myWorkspaces !! 1 )
      , className =? "mpv"             --> doShift ( myWorkspaces !! 7 )
      , className =? "Gimp"            --> doShift ( myWorkspaces !! 8 )
      , className =? "VirtualBox Manager" --> doShift  ( myWorkspaces !! 4 )
