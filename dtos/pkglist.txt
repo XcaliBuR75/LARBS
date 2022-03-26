@@ -3,6 +3,7 @@ dmscripts
 dtos-dmscripts
 dtos-local-bin
 dtos-xmobar
+dtos-conky
 shell-color-scripts
 volumeicon
 xmobar
