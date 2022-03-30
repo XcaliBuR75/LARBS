@@ -107,6 +107,7 @@ myStartupHook = do
     spawnOnce "trayer --edge top --align right --widthtype request --padding 6 --SetDockType true --SetPartialStrut true --expand true --monitor 1 --transparent true --alpha 0 --tint 0x282c34  --height 22 &"
     spawnOnce "/usr/bin/emacs --daemon &" -- emacs daemon for the emacsclient
     spawnOnce "xargs xwallpaper --stretch < ~/.cache/wall"
+    spawnOnce "alacritty -t scratchpad &"
 
     -- spawnOnce "~/.fehbg &"  -- set last saved feh wallpaper
     -- spawnOnce "feh --randomize --bg-fill ~/wallpapers/*"  -- feh set random wallpaper
