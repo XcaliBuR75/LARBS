@@ -18,8 +18,8 @@ sudo systemctl enable --now snapper-cleanup.timer
 ## Installing snap-pac-grub
 
 sudo pacman -S --needed base-devel
-git clone https://aur.archlinux.org/paru.git
-cd paru
+git clone https://aur.archlinux.org/paru-bin
+cd paru-bin
 makepkg -si
 paru -S snap-pac-grub
 
