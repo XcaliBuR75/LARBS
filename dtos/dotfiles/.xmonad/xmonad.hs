@@ -170,8 +170,8 @@ myScratchPads = [ NS "terminal" spawnTerm findTerm manageTerm
                where
                  h = 0.75
                  w = 0.75
-                 t = 0.85 -h
-                 l = 0.85 -w
+                 t = 0.90 -h
+                 l = 0.90 -w
     spawnMocp  = myTerminal ++ " -t mocp -e mocp"
     findMocp   = title =? "mocp"
     manageMocp = customFloating $ W.RationalRect l t w h
