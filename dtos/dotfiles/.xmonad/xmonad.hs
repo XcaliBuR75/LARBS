@@ -283,7 +283,7 @@ myTabTheme = def { fontName            = myFont
 myShowWNameTheme :: SWNConfig
 myShowWNameTheme = def
      { swn_font              = "xft:Ubuntu:bold:size=60"
-     , swn_fade              = 0.5
+     , swn_fade              = 0.0
      , swn_bgcolor           = "#1c1f24"
      , swn_color             = "#ffffff"
      }
