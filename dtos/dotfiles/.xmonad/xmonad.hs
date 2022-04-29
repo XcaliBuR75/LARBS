@@ -41,6 +41,7 @@ import XMonad.Layout.Spiral
 import XMonad.Layout.ResizableTile
 import XMonad.Layout.Tabbed
 import XMonad.Layout.ThreeColumns
+import XMonad.Layout.BinarySpacePartition
 
     -- Layouts modifiers
 import XMonad.Layout.LayoutModifier
@@ -218,6 +219,9 @@ tall     = renamed [Replace "tall"]
            $ limitWindows 12
            $ mySpacing 3
            $ ResizableTall 1 (3/100) (1/2) []
+myLayout = renamed [Replace "emptyBSP"] 
+           $ mySpacing 8
+           $ subLayout [] (smartBorders Simplest)
 magnify  = renamed [Replace "magnify"]
            $ smartBorders
            $ windowNavigation
@@ -302,6 +306,7 @@ myLayoutHook = avoidStruts $ mouseResize $ windowArrange $ T.toggleLayouts float
                $ mkToggle (NBFULL ?? NOBORDERS ?? EOT) myDefaultLayout
              where
                myDefaultLayout =     withBorder myBorderWidth tall
+                                 ||| emptyBSP
                                  ||| magnify
                                  ||| noBorders monocle
                                  ||| floats
@@ -459,9 +464,9 @@ myKeys =
     -- Toggle show/hide these programs.  They run on a hidden workspace.
     -- When you toggle them to show, it brings them to your current workspace.
     -- Toggle them to hide and it sends them back to hidden workspace (NSP).
-        , ("M-s t", namedScratchpadAction myScratchPads "terminal")
-        , ("M-s m", namedScratchpadAction myScratchPads "mocp")
-        , ("M-s c", namedScratchpadAction myScratchPads "calculator")
+        , ("M-s", namedScratchpadAction myScratchPads "terminal")
+--        , ("M-s m", namedScratchpadAction myScratchPads "mocp")
+--        , ("M-s c", namedScratchpadAction myScratchPads "calculator")
 
     -- KB_GROUP Controls for mocp music player (SUPER-u followed by a key)
         , ("M-u p", spawn "mocp --play")
