@@ -16,6 +16,7 @@ dmscripts
 dtos-alacritty
 dtos-backgrounds
 dtos-bash
+dtos-cache
 dtos-conky
 dtos-dmscripts
 dtos-doom
@@ -23,13 +24,11 @@ dtos-fish
 dtos-local-bin
 dtos-opendoas
 dtos-qutebrowser
+dtos-sounds
 dtos-sxiv
-dtos-xmobar
-dtos-xmonad
 dtos-xresources
 dtos-xwallpaper
 dtos-zsh
-element-desktop
 elementary-icon-theme
 emacs
 exa
@@ -65,8 +64,8 @@ starship
 stack
 sxiv
 ttf-hack
+ttf-jetbrains-mono
 ttf-joypixels
-ttf-mononoki
 ttf-ms-fonts
 ttf-ubuntu-font-family
 trayer
@@ -78,9 +77,6 @@ xf86-video-qxl
 xf86-video-intel
 xf86-video-amdgpu
 xf86-video-nouveau
-xmonad
-xmonad-contrib
-xmobar
 xorg-server
 xorg-xkill
 xorg-xmessage
