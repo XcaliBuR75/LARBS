@@ -24,3 +24,5 @@ do
 done
 
 #config remote add origin git@github.com:XcaliBuR75/dotfiles.git
+#config remote set-url origin git@github.com:XcaliBuR75/dotfiles.git
+#config push -u origin master
