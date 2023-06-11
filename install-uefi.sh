@@ -38,11 +38,11 @@ systemctl enable fstrim.timer
 systemctl enable firewalld
 systemctl enable acpid
 
-useradd -m zerohack
+useradd -m -g wheel -s /bin/bash zerohack
 echo zerohack:wasd | chpasswd
 #usermod -aG libvirt ermanno
 
-echo "zerohack ALL=(ALL) ALL" >> /etc/sudoers.d/zerohack
+echo "%wheel ALL=(ALL:ALL) ALL" > /etc/sudoers.d/00-larbs-wheel-can-sudo
 
 echo "GRUB_DISABLE_OS_PROBER=false" >> /etc/default/grub
 grub-mkconfig -o /boot/grub/grub.cfg
