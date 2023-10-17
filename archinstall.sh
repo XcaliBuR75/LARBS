@@ -70,6 +70,7 @@ read -r -p "Please insert the keyboard layout you use: " kblayout
 
 # Updating the live environment usually causes more problems than its worth, and quite often can't be done without remounting cowspace with more capacity, especially at the end of any given month.
 
+pacman -S --noconfirm archlinux-keyring
 pacman-key --init
 pacman-key --populate archlinux
 pacman -Sy
@@ -422,14 +423,14 @@ arch-chroot -u zerohack /mnt sh -c "sudo -u $username paru -Sa snap-pac-grub --n
 arch-chroot /mnt /bin/bash -e <<EOF
 
     sed -e 's/QGROUP=""/QGROUP="1\/0"/' -i /etc/snapper/configs/root
-    sed -e 's/NUMBER_LIMIT="50"/NUMBER_LIMIT="10-35"/' -i /etc/snapper/configs/root
-    sed -e 's/NUMBER_LIMIT_IMPORTANT="50"/NUMBER_LIMIT_IMPORTANT="15-25"/' -i /etc/snapper/configs/root
+    sed -e 's/NUMBER_LIMIT="[[:digit:]]*"/NUMBER_LIMIT="10-35"/' -i /etc/snapper/configs/root
+    sed -e 's/NUMBER_LIMIT_IMPORTANT="[[:digit:]]*"/NUMBER_LIMIT_IMPORTANT="15-25"/' -i /etc/snapper/configs/root
     sed -e 's/ALLOW_USERS=""/ALLOW_USERS="$username"/' -i /etc/snapper/configs/root
-    sed -e 's/TIMELINE_LIMIT_YEARLY="10"/TIMELINE_LIMIT_YEARLY="0"/' -i /etc/snapper/configs/root
-    sed -e 's/TIMELINE_LIMIT_MONTHLY="10"/TIMELINE_LIMIT_MONTHLY="3"/' -i /etc/snapper/configs/root
-    sed -e 's/TIMELINE_LIMIT_WEEKLY="0"/TIMELINE_LIMIT_WEEKLY="2"/' -i /etc/snapper/configs/root
-    sed -e 's/TIMELINE_LIMIT_DAILY="10"/TIMELINE_LIMIT_DAILY="5"/' -i /etc/snapper/configs/root
-    sed -e 's/TIMELINE_LIMIT_HOURLY="10"/TIMELINE_LIMIT_HOURLY="5"/' -i /etc/snapper/configs/root
+    sed -e 's/TIMELINE_LIMIT_YEARLY="[[:digit:]]*"/TIMELINE_LIMIT_YEARLY="0"/' -i /etc/snapper/configs/root
+    sed -e 's/TIMELINE_LIMIT_MONTHLY="[[:digit:]]*"/TIMELINE_LIMIT_MONTHLY="3"/' -i /etc/snapper/configs/root
+    sed -e 's/TIMELINE_LIMIT_WEEKLY="[[:digit:]]*"/TIMELINE_LIMIT_WEEKLY="2"/' -i /etc/snapper/configs/root
+    sed -e 's/TIMELINE_LIMIT_DAILY="[[:digit:]]*"/TIMELINE_LIMIT_DAILY="5"/' -i /etc/snapper/configs/root
+    sed -e 's/TIMELINE_LIMIT_HOURLY="[[:digit:]]*"/TIMELINE_LIMIT_HOURLY="5"/' -i /etc/snapper/configs/root
 
     # Delete Subvolumes Created by systemd for VMs and Containers 
     btrfs subvolume delete /.snapshots/1/snapshot/var/lib/portables
