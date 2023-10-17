@@ -416,8 +416,8 @@ arch-chroot -u $username /mnt /bin/bash -e <<EOF
 
     git clone https://aur.archlinux.org/paru-bin /home/$username/paru-bin
 EOF
-arch-chroot -u zerohack /mnt sh -c "cd /home/$username/paru-bin && makepkg -si"
-arch-chroot -u zerohack /mnt sh -c "sudo -u $username paru -Sa snap-pac-grub --noconfirm"
+arch-chroot -u $username /mnt sh -c "cd /home/$username/paru-bin && makepkg -si"
+arch-chroot -u $username /mnt sh -c "sudo -u $username paru -Sa snap-pac-grub --noconfirm"
 
 # Edit Snapper Configuration.
 arch-chroot /mnt /bin/bash -e <<EOF
