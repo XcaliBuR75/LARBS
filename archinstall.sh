@@ -271,11 +271,11 @@ curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/etc/modpr
 chmod 600 /mnt/etc/modprobe.d/*
 
 # Security kernel settings.
-curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/usr/lib/sysctl.d/990-security-misc.conf >> /mnt/etc/sysctl.d/990-security-misc.conf
-sed -i 's/kernel.yama.ptrace_scope=2/kernel.yama.ptrace_scope=3/g' /mnt/etc/sysctl.d/990-security-misc.conf
-curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/usr/lib/sysctl.d/30_silent-kernel-printk.conf >> /mnt/etc/sysctl.d/30_silent-kernel-printk.conf
-curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/usr/lib/sysctl.d/30_security-misc_kexec-disable.conf >> /mnt/etc/sysctl.d/30_security-misc_kexec-disable.conf
-chmod 600 /mnt/etc/sysctl.d/*
+curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/usr/lib/sysctl.d/990-security-misc.conf >> /mnt/usr/lib/sysctl.d/990-security-misc.conf
+sed -i 's/kernel.yama.ptrace_scope=2/kernel.yama.ptrace_scope=3/g' /mnt/usr/lib/sysctl.d/990-security-misc.conf
+curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/usr/lib/sysctl.d/30_silent-kernel-printk.conf >> /mnt/usr/lib/sysctl.d/30_silent-kernel-printk.conf
+curl https://raw.githubusercontent.com/Kicksecure/security-misc/master/usr/lib/sysctl.d/30_security-misc_kexec-disable.conf >> /mnt/usr/lib/sysctl.d/30_security-misc_kexec-disable.conf
+chmod 600 /mnt/usr/lib/sysctl.d/*
 
 # Remove nullok from system-auth
 sed -i 's/nullok//g' /mnt/etc/pam.d/system-auth
