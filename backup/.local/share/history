@@ -1,0 +1,2892 @@
+: 1705086823:0;ip addr show | grep -i inet
+: 1705086837:0;l
+: 1705086846:0;cd .cache && l
+: 1705086862:0;D
+: 1705086864:0;h
+: 1705086867:0;v .zsh_history
+: 1705086872:0;cd .cache && l
+: 1705086882:0;hop
+: 1705086886:0;ip addr show | grep -i inet
+: 1705086888:0;htop
+: 1705086895:0;D
+: 1705086905:0;cd /home/zerohack/.vscode && l
+: 1705086918:0;cd /home/zerohack/.config/fzf && l
+: 1705086924:0;v /home/zerohack/.config/shell/profile
+: 1705086931:0;v /home/zerohack/.config/shell/inputrc
+: 1705086935:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705086974:0;ip addr show | grep -i inet
+: 1705086977:0;cfz
+: 1705086987:0;l
+: 1705086989:0;ll
+: 1705086994:0;v .local/share/history
+: 1705087001:0;l
+: 1705087003:0;ll
+: 1705087008:0;v .zsh_history
+: 1705087017:0;v .local/share/history
+: 1705087020:0;l
+: 1705087021:0;ll
+: 1705087030:0;v .config/zsh/.zshrc.bak
+: 1705087083:0;v .local/share/history
+: 1705087121:0;l
+: 1705087123:0;cfz
+: 1705087126:0;l
+: 1705087131:0;v .config/zsh/.zshrc.bak
+: 1705087666:0;ip addr show | grep -i inet
+: 1705087674:0;v /home/zerohack/xdg-ninja.sh
+: 1705087682:0;l
+: 1705087695:0;cat xdg-ninja.sh
+: 1705087705:0;v Downloads/larbs/dtos/dtos
+: 1705087712:0;v /home/zerohack/Downloads/dotfiles/LICENSE
+: 1705087719:0;cd /home/zerohack/.vscode && l
+: 1705087734:0;D
+: 1705087739:0;cd xdg-ninja && l
+: 1705087750:0;cd paru-bin/src/locale/fi && l
+: 1705087753:0;D
+: 1705087754:0;h
+: 1705087758:0;cd .vscode && l
+: 1705087759:0;h
+: 1705087763:0;cd .vscode && l
+: 1705087770:0;cd /home/zerohack/.config/fzf && l
+: 1705087786:0;cd /home/zerohack/Downloads/larbs && l
+: 1705087838:0;./xdg-ninja.sh
+: 1705087895:0;cd .config/shell && l
+: 1705087902:0;v profile
+: 1705087994:0;./xdg-ninja.sh
+: 1705088004:0;l
+: 1705088035:0;./xdg-ninja.sh
+: 1705088038:0;l
+: 1705088040:0;cat 
+: 1705088044:0;v 
+: 1705088059:0;cat 
+: 1705088065:0;v .local/share/history
+: 1705088077:0;l
+: 1705088082:0;v /home/zerohack/xdg-ninja.sh
+: 1705088088:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1705088092:0;v 
+: 1705088101:0;l
+: 1705088104:0;ll
+: 1705088116:0;v .local/share/history
+: 1705088127:0;cd /usr/share/o
+: 1705088131:0;cd /usr/share/oh-my-zsh
+: 1705088132:0;l
+: 1705088133:0;ll
+: 1705088136:0;nvim zshrc
+: 1705088205:0;cd .cache/oh-my-zsh
+: 1705088206:0;l
+: 1705088213:0;cfz
+: 1705088384:0;nvim zshrc
+: 1705088401:0;cfz
+: 1705088459:0;ip addr show | grep -i inet
+: 1705088578:0;l
+: 1705088584:0;cfz
+: 1705204579:0;sudo pacman -Syy
+: 1705204584:0;htop
+: 1705204606:0;pwd
+: 1705204624:0;cd /usr/share/oh-my-zsh
+: 1705204624:0;l
+: 1705204631:0;v zshrc
+: 1705204667:0;D
+: 1705204675:0;cf
+: 1705204679:0;v fzf/key-bindings.zsh
+: 1705204703:0;rg --help
+: 1705204708:0;man rg
+: 1705204936:0;v /home/zerohack/.zsh_history
+: 1705204988:0;v /home/zerohack/.config/dolphinrc
+: 1705205135:0;man rg
+: 1705205157:0;htop
+: 1705205734:0;pa fd
+: 1705205754:0;sudo pacman -S fd
+: 1705205774:0;D
+: 1705205799:0;v larbs/archinstall.sh
+: 1705206090:0;systemctl status btrfs-scrub@dev-sda2.timer
+: 1705206118:0;htop
+: 1705206147:0;D
+: 1705206150:0;pwd
+: 1705206157:0;man fd
+: 1705206455:0;fd --help
+: 1705206809:0;fd -0 --type d --ignore-file --hidden
+: 1705206823:0;fd -0 --type d --hidden
+: 1705206840:0;time fd -0 --type d --hidden
+: 1705206855:0;cd xdg-ninja && l
+: 1705206856:0;D
+: 1705206858:0;cd hyprdots/Configs/.config/swww/Decay-Green && l
+: 1705206860:0;h
+: 1705206874:0;cd .vscode && l
+: 1705206879:0;v /home/zerohack/.vscode/extensions/jwsandeman.cyberpunk2077-theme-1.4.3/.vsixmanifest
+: 1705206888:0;fd -0 --type d --hidden
+: 1705206923:0;h
+: 1705206925:0;fd -0 --type d --hidden
+: 1705207011:0;l
+: 1705207017:0;pwd
+: 1705207017:0;l
+: 1705207022:0;pwd
+: 1705207024:0;D
+: 1705207051:0;v /home/zerohack/.config/zsh/.zshrc
+: 1705207074:0;cd /usr/share/oh-my-zsh
+: 1705207075:0;l
+: 1705207080:0;cd custom && l
+: 1705207082:0;cd plugins && l
+: 1705207085:0;l
+: 1705207086:0;l zsh-256color
+: 1705207088:0;l zsh-vim-mode
+: 1705207095:0;cd zsh-vim-mode && l
+: 1705207096:0;l
+: 1705207100:0;v README.adoc
+: 1705207156:0;cfz
+: 1705207197:0;v zsh-vim-mode.plugin.zsh
+: 1705207203:0;l
+: 1705207205:0;ll
+: 1705207218:0;v zsh-vim-mode.plugin.zsh
+: 1705207226:0;v README.adoc
+: 1705207239:0;h
+: 1705207247:0;l
+: 1705207556:0;pwd
+: 1705207565:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705207716:0;D
+: 1705207731:0;rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*'
+: 1705207778:0;dirname $(rg -u --hidden --no-config --files --glob "git*" --glob "!\\.npm*")
+: 1705207805:0;man dirname
+: 1705207815:0;rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | dirname
+: 1705207826:0;rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*'
+: 1705207853:0;rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | dirname
+: 1705207861:0;man dirname
+: 1705207880:0;l
+: 1705207897:0;dirname xdg-ninja/LICENSE
+: 1705208034:0;rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq
+: 1705208083:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq
+: 1705208088:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq | wc -l
+: 1705208103:0;rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq | wc -l
+: 1705208108:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq | wc -l
+: 1705208112:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq
+: 1705208140:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -I{} dirname {}
+: 1705208149:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -I{} dirname {} | sort -u
+: 1705208183:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | uniq
+: 1705208216:0;man xargs
+: 1705208253:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname
+: 1705208265:0;v larbs/dtos/dtos
+: 1705208274:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname | wc -l
+: 1705208323:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' | xargs -0 dirname 
+: 1705208363:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname 
+: 1705208386:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | sort -u | xargs -0 dirname 
+: 1705208410:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | uniq | xargs -0 dirname 
+: 1705208423:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname 
+: 1705208431:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208440:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705208452:0;cd xdg-ninja && l
+: 1705208457:0;D
+: 1705208459:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705208469:0;cd xdg-ninja && l
+: 1705208471:0;D
+: 1705208474:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208587:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705208593:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208605:0;#rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208610:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705208612:0;h
+: 1705208614:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705208632:0;cd /home/zerohack/.vscode && l
+: 1705208633:0;h
+: 1705208636:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208667:0;D
+: 1705208761:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208779:0;h
+: 1705208781:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208788:0;D
+: 1705208792:0;cd /home/zerohack/.vscode && l
+: 1705208794:0;h
+: 1705208796:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208818:0;D
+: 1705208868:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208908:0;rg -u --hidden --sort-files --no-config --files --glob "git*" --glob "!\\.npm*" --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705208935:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705209021:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705233510:0;D
+: 1705233512:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705233703:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname
+: 1705233798:0;man rg
+: 1705235402:0;pwd
+: 1705235485:0;cd xdg-ninja && l
+: 1705235488:0;D
+: 1705235551:0;h
+: 1705235686:0;cd /home/zerohack/Downloads && l
+: 1705235763:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705235766:0;h
+: 1705235769:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705235774:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u 
+: 1705235793:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | grep -i "git"
+: 1705235810:0;rg -u --hidden --sort-files --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705235975:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705235979:0;D
+: 1705235980:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705235987:0;cd xdg-ninja && l
+: 1705235991:0;D
+: 1705236026:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705236030:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705236048:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705236052:0;cd xdg-ninja && l
+: 1705236055:0;h
+: 1705236058:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705236066:0;cd /home/zerohack/.vscode && l
+: 1705236068:0;h
+: 1705236116:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705236145:0;cd /home/zerohack/.config/fzf && l
+: 1705236150:0;v key-bindings.zsh
+: 1705236258:0;cd /home/zerohack/.config/zsh && l
+: 1705236259:0;ll
+: 1705236260:0;l
+: 1705236260:0;ll
+: 1705236264:0;v .zshrc.bak
+: 1705236292:0;cd /home/zerohack/Downloads/dotfiles/.config/fzf-tab && l
+: 1705236295:0;v README.md
+: 1705236364:0;grep -i "clone" README.md
+: 1705236393:0;git clone https://github.com/Aloxaf/fzf-tab ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/fzf-tab
+: 1705236413:0;sudo git clone https://github.com/Aloxaf/fzf-tab ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/fzf-tab
+: 1705236426:0;cd /usr/share/oh-my-zsh
+: 1705236427:0;l
+: 1705236430:0;cd custom/plugins && l
+: 1705236446:0;sudo chown -R zerohack:zerohack fzf-tab
+: 1705236448:0;l
+: 1705236449:0;ll
+: 1705236450:0;l
+: 1705236450:0;ll
+: 1705236453:0;cd fzf-tab && l
+: 1705236453:0;l
+: 1705236455:0;v README.md
+: 1705236482:0;du -h
+: 1705236485:0;cfz
+: 1705236502:0;v README.md
+: 1705236534:0;cf
+: 1705236537:0;cd fzf && l
+: 1705236558:0;cf
+: 1705236561:0;cd fzf && l
+: 1705236641:0;l
+: 1705236657:0;cp key-bindings.zsh key-bindings.zsh.bak
+: 1705236668:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705236670:0;l
+: 1705236672:0;ll
+: 1705236689:0;l
+: 1705236954:0;v key-bindings.zsh
+: 1705237001:0;v 
+: 1705237118:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705237499:0;cd //home/zerohack/.config && l
+: 1705237504:0;cd //home/zerohack/.config/fzf && l
+: 1705237517:0;cd //home/zerohack/Downloads/dotfiles/.config/lf && l
+: 1705237520:0;cd backups && l
+: 1705237556:0;cd //home/zerohack/Downloads/dotfiles && l
+: 1705237563:0;cd //home/zerohack && l
+: 1705237577:0;cd .vscode && l
+: 1705237584:0;cd //home/zerohack/Downloads/larbs && l
+: 1705237590:0;cd //home/zerohack/Downloads/hyprdots && l
+: 1705237596:0;cd //home/zerohack && l
+: 1705237617:0;cd //home/zerohack/.config/fzf && l
+: 1705237637:0;cd //home/zerohack/Downloads/dotfiles/.config/lf && l
+: 1705237641:0;D
+: 1705237645:0;cd xdg-ninja && l
+: 1705237650:0;l
+: 1705237657:0;cd //home/zerohack/.config/zsh && l
+: 1705237659:0;D
+: 1705237666:0;cd //home/zerohack/.cache && l
+: 1705237668:0;l
+: 1705237673:0;cd //home/zerohack && l
+: 1705237680:0;cd //home/zerohack/.cache && l
+: 1705237684:0;D
+: 1705237764:0;cd //home/zerohack/.cache/paru/clone/sddm-git && l
+: 1705237765:0;l
+: 1705237775:0;du -h
+: 1705237777:0;l
+: 1705237779:0;ll
+: 1705237781:0;l
+: 1705237782:0;ll
+: 1705237783:0;l
+: 1705237784:0;ll
+: 1705237786:0;pwd
+: 1705237809:0;cd //home/zerohack/paru-bin && l
+: 1705237814:0;cd //home/zerohack/.cache/paru && l
+: 1705237815:0;l
+: 1705237818:0;du -h
+: 1705237859:0;l
+: 1705237866:0;cd clone/rofi-lbonn-wayland-git && l
+: 1705237869:0;du -h
+: 1705237879:0;l
+: 1705237881:0;du -h
+: 1705237883:0;ll
+: 1705237885:0;du -h
+: 1705237888:0;ll
+: 1705237890:0;D
+: 1705237895:0;l
+: 1705237949:0;cd //home/zerohack/.cache/paru && l
+: 1705237951:0;l
+: 1705237963:0;l clone
+: 1705237972:0;l
+: 1705238024:0;cd //home/zerohack/.cache/paru/clone/ptsh && l
+: 1705238027:0;h
+: 1705238037:0;cd .cache/paru/clone && l
+: 1705238041:0;h
+: 1705238054:0;cd .cache/paru/clone && l
+: 1705238060:0;h
+: 1705238070:0;cd .cache/paru/clone && l
+: 1705238071:0;h
+: 1705238089:0;cd //home/zerohack/.cache/paru/clone/ptsh && l
+: 1705238114:0;cd //home/zerohack/Downloads/larbs && l
+: 1705238118:0;h
+: 1705238126:0;cd Downloads && l
+: 1705238157:0;cd //home/zerohack/Downloads/larbs && l
+: 1705238158:0;h
+: 1705238169:0;cd Downloads && l
+: 1705238171:0;h
+: 1705238181:0;l Downloads
+: 1705238191:0;l
+: 1705238198:0;l Downloads
+: 1705238410:0;cd //home/zerohack/Downloads/larbs && l
+: 1705238412:0;D
+: 1705238415:0;cd //home/zerohack/Downloads/larbs && l
+: 1705238443:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705238459:0;h
+: 1705238461:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705238548:0;D
+: 1705238550:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705238570:0;h
+: 1705238601:0;cd //home/zerohack/Downloads/larbs && l
+: 1705238611:0;h
+: 1705238619:0;cd //home/zerohack/.config && l
+: 1705238643:0;cd //home/zerohack/Downloads/hyprdots/Source/misc && l
+: 1705238645:0;cd //home/zerohack/Downloads/larbs && l
+: 1705238658:0;cd //home/zerohack/Downloads/dotfiles/.config/nvim && l
+: 1705238660:0;l
+: 1705238663:0;h
+: 1705238667:0;cf
+: 1705238676:0;cd //home/zerohack/.config/shell && l
+: 1705238682:0;cd //home/zerohack/.config/swaylock && l
+: 1705238686:0;cf
+: 1705238698:0;cd //home/zerohack/.config/hypr && l
+: 1705238703:0;cd //home/zerohack/.config/hypr/scripts && l
+: 1705238708:0;cd //home/zerohack/.config/hypr && l
+: 1705238711:0;cd themes && l
+: 1705238720:0;cd //home/zerohack/.config/hypr/scripts && l
+: 1705238731:0;cd //home/zerohack/.config/hypr/wallbash && l
+: 1705238737:0;cd //home/zerohack/.config/hypr/wallbash/icons && l
+: 1705238746:0;cd //home/zerohack/.config/hypr/wallbash && l
+: 1705238748:0;cd icons && l
+: 1705238751:0;cd ..
+: 1705238753:0;cd icons && l
+: 1705238755:0;..
+: 1705238755:0;l
+: 1705238758:0;h
+: 1705238782:0;D
+: 1705238793:0;htop
+: 1705238885:0;man foot
+: 1705242391:0;footclient
+: 1705242417:0;htop
+: 1705242462:0;footclient
+: 1705242500:0;v /home/zerohack/.config/hypr/hyprland.conf
+: 1705242515:0;cd //home/zerohack/.config/hypr/scripts && l
+: 1705242560:0;cd //home/zerohack/.config/hypr && l
+: 1705242567:0;v keybindings.conf
+: 1705242578:0;v hyprland.conf
+: 1705242607:0;v keybindings.conf
+: 1705242654:0;v windowrules.conf
+: 1705242659:0;v keybindings.conf
+: 1705242674:0;htop
+: 1705242760:0;footclient --help
+: 1705242828:0;man foot-ctlseqs
+: 1705242861:0;man footclient
+: 1705242899:0;echo $TERM
+: 1705243064:0;echo $COLORTERM
+: 1705243080:0;htop
+: 1705243274:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1705243281:0;cd //home/zerohack && l
+: 1705243287:0;cd //home/zerohack/Downloads/larbs && l
+: 1705243298:0;l
+: 1705243304:0;l Downloads
+: 1705243313:0;cd Downloads && l
+: 1705243316:0;h
+: 1705243321:0;cd Downloads && l
+: 1705243324:0;cd //home/zerohack/Downloads/larbs && l
+: 1705243332:0;cd //home/zerohack/Downloads/hyprdots && l
+: 1705243337:0;h
+: 1705243351:0;v xdg-ninja.sh
+: 1705243357:0;D
+: 1705243359:0;h
+: 1705243362:0;v xdg-ninja.sh
+: 1705243397:0;cd //home/zerohack/.config/hypr && l
+: 1705243438:0;man footclient
+: 1705243457:0;man foot
+: 1705243524:0;cd /usr/share/foot
+: 1705243525:0;l
+: 1705243528:0;l themes
+: 1705243535:0;cd
+: 1705243605:0;cf
+: 1705243608:0;cd hypr && l
+: 1705243615:0;v hyprland.conf
+: 1705243642:0;echo $term
+: 1705243646:0;echo $TERM
+: 1705243663:0;man foot
+: 1705243744:0;htop
+: 1705243785:0;lsof
+: 1705243824:0;pidof foot
+: 1705243831:0;pidof footclient
+: 1705243861:0;pidof foot
+: 1705243867:0;pidof footclient
+: 1705243886:0;pidof foot
+: 1705243889:0;pidof footclient
+: 1705243907:0;htop
+: 1705243920:0;pidof foot
+: 1705243925:0;man pidof
+: 1705243945:0;pidof footclient
+: 1705243963:0;htop
+: 1705243977:0;pidof foot
+: 1705243988:0;pidof footclient
+: 1705243994:0;htop
+: 1705244027:0;cd //home/zerohack && l
+: 1705244032:0;cd //home/zerohack/Downloads/larbs && l
+: 1705244033:0;D
+: 1705244036:0;h
+: 1705244039:0;pidof foot
+: 1705244042:0;pidof footclient
+: 1705244053:0;cd //home/zerohack/Downloads/larbs && l
+: 1705244062:0;cd //home/zerohack/.config && l
+: 1705244069:0;cd //home/zerohack/.cache && l
+: 1705244073:0;cd //home/zerohack && l
+: 1705244082:0;cd //home/zerohack/.cache && l
+: 1705244091:0;cd //home/zerohack && l
+: 1705244094:0;cd //home/zerohack/Downloads/larbs && l
+: 1705244106:0;cd //home/zerohack/Downloads/xdg-ninja && l
+: 1705244109:0;cd //home/zerohack && l
+: 1705244118:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1705244126:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705244157:0;v 
+: 1705244184:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705244190:0;man xargs
+: 1705244249:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244266:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244286:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 1 -0 dirname | sort -u
+: 1705244296:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 2 -0 dirname | sort -u
+: 1705244304:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 4 -0 dirname | sort -u
+: 1705244313:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 6 -0 dirname | sort -u
+: 1705244327:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 8 -0 dirname | sort -u
+: 1705244336:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244346:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705244358:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244381:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705244449:0;man sort
+: 1705244481:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244500:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 2
+: 1705244510:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244514:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 2
+: 1705244519:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 4
+: 1705244523:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 8
+: 1705244530:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 16
+: 1705244538:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 2
+: 1705244542:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 4
+: 1705244555:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 20
+: 1705244565:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 10
+: 1705244570:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 8
+: 1705244576:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 4
+: 1705244582:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 2
+: 1705244589:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 4
+: 1705244618:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244628:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u --parallel 4
+: 1705244640:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705244687:0;cd //home/zerohack/Downloads/larbs && l
+: 1705244701:0;cd //home/zerohack/.config && l
+: 1705244742:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705244768:0;cd /-circle-purple/scalable/apps && l
+: 1705244787:0;cd //home/zerohack/Downloads/larbs && l
+: 1705244800:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705244939:0;cd .vscode && l
+: 1705244941:0;h
+: 1705244945:0;cd //home/zerohack && l
+: 1705244950:0;cd //home/zerohack/Downloads/larbs && l
+: 1705244956:0;cd //home/zerohack/.config && l
+: 1705244964:0;cd //home/zerohack/.config/shell && l
+: 1705244977:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705245123:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705245163:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705245183:0;time rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705245191:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705245232:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u | wc -l
+: 1705245252:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u
+: 1705245260:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245298:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245325:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245354:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245359:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245365:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245371:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245381:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245386:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245392:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245406:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 8 | wc -l
+: 1705245412:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 2 | wc -l
+: 1705245416:0;k
+: 1705245418:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 2 | wc -l
+: 1705245429:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 50 | wc -l
+: 1705245438:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245440:0;k
+: 1705245443:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u --parallel 4 | wc -l
+: 1705245457:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245464:0;k
+: 1705245466:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245474:0;man sort
+: 1705245517:0;cd .vscode && l
+: 1705245518:0;h
+: 1705245522:0;cd //home/zerohack/Downloads/larbs && l
+: 1705245530:0;cd //home/zerohack/.config/shell && l
+: 1705245534:0;cd //home/zerohack/Downloads/hyprdots && l
+: 1705245537:0;cd //home/zerohack/.config/hypr && l
+: 1705245561:0;cd //home/zerohack/.config/rofi && l
+: 1705245563:0;l
+: 1705245567:0;ls
+: 1705245574:0;alias ls
+: 1705245579:0;alias l
+: 1705245586:0;ls
+: 1705245589:0;ll
+: 1705245591:0;l
+: 1705245596:0;alias
+: 1705245604:0;v /home/zerohack/.config/zsh/.zshrc
+: 1705245638:0;ld
+: 1705245670:0;cd //home/zerohack/.cache && l
+: 1705245683:0;pidof foot
+: 1705245686:0;pidof footclient
+: 1705245717:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 ld | sort -u
+: 1705245737:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u
+: 1705245743:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P 0 -0 dirname | sort -u | wc -l
+: 1705245760:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245762:0;k
+: 1705245764:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705245788:0;ld
+: 1705245803:0;cd //home/zerohack/Downloads/larbs && l
+: 1705245807:0;cd //home/zerohack/.config/shell && l
+: 1705245811:0;cd //home/zerohack/Downloads/larbs && l
+: 1705245820:0;cd //home/zerohack/Downloads/dotfiles/.config/proxify && l
+: 1705245824:0;l
+: 1705245831:0;cd //home/zerohack/.config/rofi && l
+: 1705245835:0;D
+: 1705245879:0;pidof foot
+: 1705245886:0;pidof footclient
+: 1705327155:0;pidof foot
+: 1705327159:0;pidof footclient
+: 1705327163:0;htop
+: 1705327178:0;sudo pacman -Syy
+: 1705327185:0;l
+: 1705327195:0;D
+: 1705327208:0;cd //home/zerohack && l
+: 1705327211:0;D
+: 1705327215:0;cd //home/zerohack/.config/fzf && l
+: 1705327225:0;cd //home/zerohack/.config/shell && l
+: 1705327231:0;D
+: 1705327237:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705327251:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705327252:0;h
+: 1705327256:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705327270:0;basename Downloads/larbs
+: 1705327295:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 basename  | sort -u | wc -l
+: 1705327324:0;basename --help
+: 1705327338:0;man basename
+: 1705327350:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 basename  | sort -u
+: 1705327406:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705327454:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705327471:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705327693:0;D
+: 1705327735:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 ${PWD##*/} | sort -u | wc -l
+: 1705327762:0;mkdir -p /tmp/dir1
+: 1705327782:0;cd /tmp/dir1 ${PWD##*/}
+: 1705327795:0;pwd
+: 1705327936:0;cd /tmp
+: 1705327944:0;l
+: 1705327949:0;l hypr
+: 1705328110:0;D
+: 1705328143:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 sed 's#/.*##' | sort -u 
+: 1705328172:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705328178:0;h
+: 1705328181:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705328236:0;man sort
+: 1705328363:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | uniq | wc -l
+: 1705328375:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | uniq
+: 1705328392:0;l
+: 1705328398:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | uniq
+: 1705328405:0;man uniq
+: 1705328440:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | uniq -u | wc -l
+: 1705328499:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | uniq -u 
+: 1705328513:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | uniq -u | wc -l
+: 1705328540:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705328596:0;man uniq
+: 1705328760:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705328767:0;man rg
+: 1705329070:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705329309:0;man sort
+: 1705329337:0;man dirname
+: 1705329368:0;man xargs
+: 1705329395:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705329432:0;man uniq
+: 1705329707:0;cd .vscode && l
+: 1705329708:0;h
+: 1705329712:0;cd //home/zerohack/Downloads/hyprdots && l
+: 1705329716:0;du -ckx
+: 1705329733:0;du -ckx | sort -u
+: 1705329756:0;du -ckx | sort -n
+: 1705329787:0;du -ckx | sort -nh
+: 1705329790:0;man sort
+: 1705329801:0;du -ckx | sort -h
+: 1705329811:0;du -ckx | sort -n
+: 1705329815:0;cd //home/zerohack/.cache && l
+: 1705329819:0;du -ckx | sort -n
+: 1705329829:0;cd paru && l
+: 1705329842:0;cd ..
+: 1705329849:0;du -ckx | sort -n
+: 1705329855:0;df -h
+: 1705329912:0;h
+: 1705329962:0;man sort
+: 1705331024:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705332018:0;cd //home/zerohack && l
+: 1705332029:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705332044:0;man rg
+: 1705333204:0;man dirname
+: 1705333259:0;cd /tm
+: 1705333263:0;cd /tmp
+: 1705333264:0;l
+: 1705333271:0;wc -l dirs-db
+: 1705333276:0;v dirs-db
+: 1705333317:0;rg -u --hidden --sort-files --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705333326:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705333427:0;cat dirs-db
+: 1705333435:0;cat dirs-db | fzf
+: 1705333468:0;cd //home/zerohack/Downloads/larbs && l
+: 1705333473:0;h
+: 1705333483:0;cd .vscode && l
+: 1705333492:0;cd extensions && l
+: 1705333499:0;cd //home/zerohack/.config && l
+: 1705333509:0;l
+: 1705333519:0;cd //home/zerohack && l
+: 1705333521:0;h
+: 1705333525:0;cd .vscode && l
+: 1705333528:0;cd //home/zerohack && l
+: 1705333529:0;D
+: 1705333532:0;cd //home/zerohack/.config && l
+: 1705333532:0;l
+: 1705333537:0;h
+: 1705333592:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705333624:0;cd //home/zerohack/.cache && l
+: 1705333627:0;cd //home/zerohack/.config && l
+: 1705333631:0;cd //home/zerohack/Downloads/larbs && l
+: 1705333639:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705333712:0;cd /tmp
+: 1705333720:0;l
+: 1705333728:0;man eval
+: 1705333766:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705334831:0;cd //home/zerohack/.config/fzf && l
+: 1705334832:0;l
+: 1705334839:0;cd //home/zerohack/.config/fzf && l
+: 1705334844:0;cd //home/zerohack/Downloads/larbs && l
+: 1705334851:0;cd //home/zerohack/.config/shell && l
+: 1705334853:0;cd //home/zerohack/Downloads/larbs && l
+: 1705334861:0;cd //home/zerohack/.cache/paru && l
+: 1705334863:0;l
+: 1705334867:0;cd //home/zerohack/.config/fzf && l
+: 1705334870:0;v key-bindings.zsh
+: 1705335025:0;cd //home/zerohack/.cache && l
+: 1705335066:0;h
+: 1705335069:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705335095:0;man awk
+: 1705337065:0;htop
+: 1705337073:0;pidof foot
+: 1705337629:0;man sort
+: 1705337723:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705337863:0;man uniq
+: 1705337917:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705337943:0;man rg
+: 1705338072:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705338138:0;cd //home/zerohack/.cache && l
+: 1705338138:0;l
+: 1705338170:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705338228:0;pidof foot
+: 1705338232:0;pidof footclient
+: 1705338253:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | sort -u | wc -l
+: 1705338262:0;v /home/zerohack/.config/hypr/animations.conf
+: 1705338544:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705338607:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705339345:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705339369:0;cd //home/zerohack/.config/fzf && l
+: 1705339455:0;pwd
+: 1705339457:0;l
+: 1705339461:0;v key-bindings.zsh
+: 1705339482:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705339627:0;v key-bindings.zsh
+: 1705339650:0;cd //home/zerohack/Downloads/larbs && l
+: 1705339656:0;cd //home/zerohack/.config && l
+: 1705339658:0;cd //home/zerohack/.config/shell && l
+: 1705339661:0;cd //home/zerohack/Downloads/larbs/dtos && l
+: 1705339678:0;l
+: 1705339679:0;cd dotfiles && l
+: 1705339681:0;cd ..
+: 1705339682:0;l
+: 1705339697:0;cd dotfiles/sddm/themes && l
+: 1705339701:0;cd //home/zerohack/.config/zsh && l
+: 1705339702:0;l
+: 1705339817:0;echo $LC_ALL
+: 1705339850:0;env | grep -i env
+: 1705339854:0;env | grep -i lc
+: 1705339859:0;env | grep -i en
+: 1705339869:0;echo $LANG
+: 1705339877:0;env | grep -i en
+: 1705339963:0;locale
+: 1705340109:0;cd //home/zerohack/Downloads/larbs/dtos/dotfiles && l
+: 1705340112:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1705340117:0;cd //home/zerohack/.config/rofi && l
+: 1705340126:0;cd //home/zerohack/.cache && l
+: 1705340133:0;cd //home/zerohack/.cache/swww && l
+: 1705340134:0;l
+: 1705340140:0;cd //home/zerohack/.config/hypr && l
+: 1705340145:0;cd //home/zerohack/Downloads/larbs && l
+: 1705340148:0;cd //home/zerohack/Downloads/dotfiles/.config/alacritty && l
+: 1705340151:0;cd //home/zerohack/Downloads/larbs && l
+: 1705340157:0;cd //home/zerohack/Downloads/dotfiles/.config/alacritty && l
+: 1705340161:0;D
+: 1705340168:0;cd //home/zerohack/.config/shell && l
+: 1705340170:0;cd //home/zerohack/Downloads/xdg-ninja && l
+: 1705340171:0;l
+: 1705340178:0;cat 
+: 1705340188:0;v xdg-ninja.sh
+: 1705340192:0;D
+: 1705340200:0;l
+: 1705340229:0;D
+: 1705340231:0;cd //home/zerohack/Downloads/larbs && l
+: 1705340235:0;./setting-git.sh
+: 1705340248:0;cd //home/zerohack/.ssh && l
+: 1705340249:0;l
+: 1705340252:0;cat id_rsa.pub
+: 1705340265:0;v /home/zerohack/Downloads/dotfiles/.local/share/larbs/getkeys/sxiv
+: 1705340270:0;v /home/zerohack/Downloads/dotfiles/.config/sxiv/exec/key-handler
+: 1705340275:0;v /home/zerohack/Downloads/larbs/setting-git.sh
+: 1705340300:0;l
+: 1705340307:0;cf
+: 1705340308:0;D
+: 1705340310:0;cd //home/zerohack/.config && l
+: 1705340333:0;l zsh
+: 1705340337:0;ll zsh
+: 1705340353:0;l zsh/fast-syntax-highlighting
+: 1705340359:0;cd zsh/fast-syntax-highlighting && l
+: 1705340362:0;du -ckx | sort -n
+: 1705340373:0;D
+: 1705340379:0;cd //home/zerohack/Downloads/larbs && l
+: 1705340388:0;v /home/zerohack/.config/shell/inputrc
+: 1705340402:0;cd //home/zerohack/.config && l
+: 1705340408:0;cd nwg-look && l
+: 1705340410:0;cf
+: 1705340414:0;cd //home/zerohack/Downloads/dotfiles && l
+: 1705340415:0;ll
+: 1705340424:0;du -ckx | sort -n
+: 1705340433:0;l
+: 1705340436:0;ll
+: 1705340441:0;v backup-cfg.sh
+: 1705340445:0;cat backup-cfg.sh
+: 1705340460:0;cat cfg-install-improved.sh
+: 1705340475:0;v cfg-install-improved.sh
+: 1705340497:0;l
+: 1705340499:0;ll
+: 1705340506:0;l .config
+: 1705340511:0;cd //home/zerohack/Downloads/larbs && l
+: 1705340514:0;v cfg-install-improved.sh
+: 1705340530:0;D
+: 1705340542:0;pwd
+: 1705577705:0;htop
+: 1705577712:0;pidof foot
+: 1705577718:0;pidof footclient
+: 1705577745:0;cd //home/zerohack/.config/fzf && l
+: 1705577753:0;cd //home/zerohack/Downloads/larbs && l
+: 1705577761:0;cd //home/zerohack/.config/fzf && l
+: 1705577766:0;cd //home/zerohack/Downloads/larbs && l
+: 1705577768:0;D
+: 1705577775:0;sudo pacman -Syy
+: 1705577812:0;v /home/zerohack/.zshrc.bak
+: 1705577824:0;cd //home/zerohack/.ssh && l
+: 1705577825:0;D
+: 1705577832:0;v /home/zerohack/.config/zsh/.zshrc.bak
+: 1705577853:0;v /home/zerohack/.config/zsh/.zshrc
+: 1705577892:0;v /home/zerohack/.config/zsh/.zshrc.bak
+: 1705577937:0;v /home/zerohack/.config/zsh/.zshrc
+: 1705577957:0;v /home/zerohack/.config/zsh/.zshrc.bak
+: 1705577970:0;v /home/zerohack/.config/zsh/.zshrc
+: 1705578089:0;ip addr show | grep -i inet
+: 1705578109:0;sudo pacman -Syy
+: 1705578122:0;cd //home/zerohack/.cache && l
+: 1705578132:0;l
+: 1705578156:0;D
+: 1705578160:0;cd //home/zerohack/.config && l
+: 1705578163:0;h
+: 1705578166:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705578233:0;D
+: 1705578364:0;git clone https://github.com/jkool702/forkrun.git
+: 1705578369:0;l
+: 1705578373:0;l forkrun
+: 1705578380:0;cd forkrun && l
+: 1705578395:0;chmod 755 *.bash
+: 1705578396:0;l
+: 1705578399:0;v forkrun.bash
+: 1705578426:0;./forkrun.bash --help
+: 1705578439:0;./forkrun.bash -h
+: 1705578443:0;v forkrun.bash
+: 1705578470:0;v README.md
+: 1705578507:0;./forkrun.bash --usage
+: 1705578512:0;./forkrun.bash
+: 1705578516:0;l
+: 1705578526:0;cp forkrun.bash forkrun.bash.bak
+: 1705578529:0;l
+: 1705578532:0;v forkrun.bash
+: 1705578545:0;./forkrun.bash --usage
+: 1705578555:0;v forkrun.bash
+: 1705578564:0;./forkrun.bash --usage
+: 1705578571:0;v README.md
+: 1705578589:0;man xargs
+: 1705578619:0;htop
+: 1705578669:0;D
+: 1705578691:0;v /home/zerohack/Downloads/forkrun/README.md
+: 1705578764:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705578812:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705578825:0;h
+: 1705578907:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705579322:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P $(nproc) -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705579532:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705579643:0;cd .vscode && l
+: 1705579645:0;D
+: 1705579646:0;cd forkrun && l
+: 1705579649:0;v forkrun.bash
+: 1705579691:0;cd //home/zerohack/Downloads/larbs && l
+: 1705579701:0;cd //home/zerohack/.config/foot && l
+: 1705579706:0;cd //home/zerohack/Downloads/larbs && l
+: 1705579723:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705579730:0;man xargs
+: 1705579753:0;h
+: 1705579756:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P $(nproc) -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705579899:0;cd //home/zerohack/Downloads/larbs && l
+: 1705579919:0;D
+: 1705579923:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705579949:0;cd //home/zerohack/Downloads/larbs && l
+: 1705579956:0;cd //home/zerohack/.config/zsh && l
+: 1705579959:0;cd //home/zerohack/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-0.2.16/src/helpers && l
+: 1705579961:0;pwd
+: 1705579964:0;cd //home/zerohack/.config/shell && l
+: 1705579974:0;cd //home/zerohack/.config/rofi && l
+: 1705579980:0;cd //home/zerohack/.config && l
+: 1705579987:0;h
+: 1705579989:0;cd //home/zerohack/.config/waybar && l
+: 1705579992:0;h
+: 1705579996:0;cd //home/zerohack/.cache/swww && l
+: 1705580034:0;cd //home/zerohack/.config/swww/Rose-Pine && l
+: 1705580049:0;cd //home/zerohack/.config && l
+: 1705580052:0;l swww
+: 1705580064:0;D
+: 1705580069:0;h
+: 1705580071:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -P $(nproc) -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705580088:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705580131:0;man fzf
+: 1705580186:0;v /home/zerohack/.config/shell/profile
+: 1705580219:0;man fzf
+: 1705580295:0;v /home/zerohack/.config/shell/profile
+: 1705580344:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705580509:0;cd //home/zerohack/.cache/paru/clone/foot-git && l
+: 1705580517:0;h
+: 1705580756:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705580811:0;cd //home/zerohack/Downloads/larbs && l
+: 1705580813:0;cd //home/zerohack/.config && l
+: 1705580814:0;h
+: 1705580817:0;cd //home/zerohack/.config/shell && l
+: 1705580820:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705580823:0;cd //home/zerohack/Downloads/larbs && l
+: 1705580824:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705580826:0;pwd
+: 1705580830:0;cd //home/zerohack/Downloads/larbs && l
+: 1705580832:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705580838:0;D
+: 1705580842:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705580846:0;cd //home/zerohack/Downloads/larbs && l
+: 1705580850:0;cd //home/zerohack/Downloads/forkrun && l
+: 1705580855:0;h
+: 1705580858:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705580988:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g ""
+: 1705580997:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | wc -l
+: 1705581314:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705581325:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | wc -l
+: 1705581611:0;man ag
+: 1705582170:0;l ti
+: 1705582185:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | wc -l
+: 1705582342:0;v /home/zerohack/.config/shell/profile
+: 1705582358:0;v /home/zerohack/.config/shell/aliasrc
+: 1705582365:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | wc -l
+: 1705582374:0;v /home/zerohack/.config/shell/aliasrc
+: 1705582419:0;man ag
+: 1705582468:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | wc -l
+: 1705582473:0;man ag
+: 1705582519:0;man dirname
+: 1705583042:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | xargs -0 dirname
+: 1705583055:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "./" | xargs -0 dirname
+: 1705583069:0;time ag --hidden --ignore .gitignore --ignore-dir .git -l -g "" | wc -l
+: 1705583164:0;man ag
+: 1705583369:0;time ag --hidden --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705583378:0;time ag --hidden --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u
+: 1705583399:0;ll
+: 1705583404:0;cd .icons
+: 1705583405:0;l
+: 1705583411:0;du -ckx | sort -n
+: 1705583418:0;pwd
+: 1705583418:0;h
+: 1705583421:0;ll
+: 1705583440:0;cd //home/zerohack/.icons/default && l
+: 1705583442:0;cd ..
+: 1705583442:0;l
+: 1705583444:0;ll
+: 1705583448:0;cd Bibata-Modern-Ice && l
+: 1705583449:0;l
+: 1705583451:0;cd cursors && l
+: 1705583452:0;l
+: 1705583458:0;cd //home/zerohack/.icons/default && l
+: 1705583460:0;cd ..
+: 1705583460:0;l
+: 1705583464:0;cd Gruvbox-Retro && l
+: 1705583468:0;l 
+: 1705583470:0;cd ..
+: 1705583471:0;l
+: 1705583474:0;l Tela-circle-grey/scalable
+: 1705583486:0;l Tela-circle-grey
+: 1705583489:0;l
+: 1705583495:0;l Tela-circle-pink
+: 1705583497:0;h
+: 1705583501:0;time ag --hidden --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u
+: 1705583513:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705583527:0;time ag --hidden --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705583800:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705583878:0;time ag --hidden --ignore ".gitignore" --ignore-dir ".git" --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705583983:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705583997:0;time ag --hidden --ignore ".gitignore" --ignore-dir ".git" --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584163:0;cd //home/zerohack/.config && l
+: 1705584165:0;h
+: 1705584167:0;time ag --hidden --ignore ".gitignore" --ignore-dir ".git" --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584178:0;v /home/zerohack/.config/shell/profile
+: 1705584201:0;time ag --hidden --ignore ".gitignore" --ignore-dir ".git" --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584385:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584389:0;time ag --hidden --ignore ".gitignore" --ignore-dir ".git" --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584457:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584517:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1705584580:0;time ag --hidden --ignore ".gitignore" --ignore-dir ".git" --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584605:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584634:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584638:0;to
+: 1705584641:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584646:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584692:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584707:0;l time .vscodea
+: 1705584712:0;l time
+: 1705584721:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584724:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584727:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584733:0;l time r
+: 1705584753:0;nvim /etc/evremap.toml
+: 1705584762:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584767:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584779:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705584854:0;l time .vscoder
+: 1705584866:0;l 
+: 1705584874:0;l .vscode
+: 1705584897:0;l 
+: 1705584904:0;cd //home/zerohack/Downloads/larbs && l
+: 1705584907:0;cd //home/zerohack && l
+: 1705584930:0;cd //home/zerohack/Downloads/larbs && l
+: 1705584944:0;cd //home/zerohack && l
+: 1705584985:0;v .zsh_history
+: 1705585013:0;cat .bash_logouta
+: 1705585021:0;v .local/bin/setbg
+: 1705585025:0;cat 
+: 1705585035:0;cat .config/shell/inputrca
+: 1705585044:0;cat .config/shell/inputrc
+: 1705585053:0;cat Downloads/larbs/dtos/dtos
+: 1705585065:0;cat aa
+: 1705585067:0;cat 
+: 1705585072:0;cat Downloads/larbs/LICENSE
+: 1705585076:0;v Downloads/larbs/dtos/dtos
+: 1705585093:0;nvim /etc/evremap.toml
+: 1705585146:0;cd //home/zerohack/Downloads/larbs && l
+: 1705585188:0;cd //home/zerohack && l
+: 1705585202:0;cd //home/zerohack/Downloads/larbs && l
+: 1705585206:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705585294:0;h
+: 1705585297:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705585304:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637813:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637827:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637835:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637852:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637864:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637868:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637876:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637890:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637901:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637936:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637939:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705637949:0;sdn
+: 1705709951:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705709962:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705709969:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705709989:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705709997:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710007:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710011:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710022:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710052:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710056:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710079:0;l
+: 1705710081:0;D
+: 1705710093:0;l
+: 1705710101:0;cd //home/zerohack/.config/fzf && l
+: 1705710170:0;l
+: 1705710214:0;cd //home/zerohack/Downloads/backup && l
+: 1705710217:0;v key-bindings.zsh
+: 1705710253:0;cd //home/zerohack/.config/fzf && l
+: 1705710256:0;v key-bindings.zsh.bak
+: 1705710263:0;l
+: 1705710271:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705710275:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713457:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713594:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713764:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713774:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713783:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713786:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713792:0;cd //home/zerohack/Downloads/larbs && l
+: 1705713809:0;D
+: 1705713816:0;cd forkrun && l
+: 1705713817:0;pwd
+: 1705713819:0;D
+: 1705713825:0;cd dotfiles && l
+: 1705713827:0;D
+: 1705713833:0;cd forkrun && l
+: 1705713858:0;cd hyperfine_benchmark && l
+: 1705713861:0;l
+: 1705713867:0;cd ..
+: 1705713868:0;l
+: 1705713877:0;cd hyperfine_benchmark && l
+: 1705713880:0;v README.md
+: 1705713885:0;l
+: 1705713887:0;v forkrun.speedtest.hyperfine.bash
+: 1705713896:0;D
+: 1705713911:0;pwd
+: 1705713919:0;v /home/zerohack/.config/shell/profile
+: 1705713928:0;l
+: 1705713929:0;v larbs/README.md
+: 1705713939:0;l
+: 1705713946:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713962:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705713969:0;sdn
+: 1705847337:0;cd //home/zerohack && l
+: 1705847343:0;cd //home/zerohack/Downloads/larbs && l
+: 1705847345:0;h
+: 1705847352:0;pidof foot
+: 1705847356:0;pidof footclient
+: 1705847365:0;htop
+: 1705847372:0;sudo pacman -Syy
+: 1705847396:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847399:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847407:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847409:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847427:0;man ag
+: 1705847579:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847603:0;v /home/zerohack/.config/hypr/hyprland.conf
+: 1705847620:0;v /home/zerohack/.config/hypr/keybindings.conf
+: 1705847656:0;v /home/zerohack/.config/hypr/hyprland.conf
+: 1705847676:0;pidof footclient
+: 1705847681:0;pidof foot
+: 1705847704:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847820:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847847:0;D
+: 1705847850:0;l forkrun
+: 1705847853:0;cd backup && l
+: 1705847858:0;v key-bindings.zsh
+: 1705847882:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847890:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847899:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847902:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705847928:0;cd //home/zerohack/.config/fzf && l
+: 1705847952:0;v key-bindings.zsh
+: 1705848381:0;v /home/zerohack/.config/shell/profile
+: 1705848445:0;cd .vscode && l
+: 1705848446:0;D
+: 1705848469:0;cd /Downloads/larbs && l
+: 1705848536:0;cd .vscode && l
+: 1705848564:0;cd Downloads/larbs && l
+: 1705848583:0;cd .git && l
+: 1705848592:0;cd hooks && l
+: 1705848607:0;cd . && l
+: 1705848609:0;l
+: 1705848636:0;man ag
+: 1705849031:0;cd Downloads/larbs && l
+: 1705849058:0;cd dtos && l
+: 1705849061:0;l
+: 1705849067:0;cd . && l
+: 1705849075:0;cd dotfiles && l
+: 1705849082:0;cd .local/bin && l
+: 1705849083:0;D
+: 1705849085:0;cd larbs && l
+: 1705849088:0;cd dtos/dotfiles && l
+: 1705849090:0;D
+: 1705849093:0;cd larbs/dtos && l
+: 1705849100:0;cd dotfiles && l
+: 1705849104:0;l
+: 1705849110:0;cd . && l
+: 1705849111:0;l
+: 1705849113:0;ll
+: 1705849120:0;cd sddm/themes/Sugar-Candy && l
+: 1705849123:0;l
+: 1705849124:0;cd Backgrounds && l
+: 1705849334:0;D
+: 1705849341:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705849345:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705849580:0;cd Downloads/larbs && l
+: 1705849591:0;cd dtos && l
+: 1705849601:0;l dotfiles
+: 1705849616:0;cd dotfiles && l
+: 1705849623:0;l
+: 1705849630:0;cd dotfiles && l
+: 1705849638:0;cd . && l
+: 1705849648:0;cd dotfiles && l
+: 1705849653:0;l
+: 1705849670:0;cd dotfiles && l
+: 1705849672:0;cd ..
+: 1705849673:0;l
+: 1705849694:0;cd dotfiles && l
+: 1705849719:0;l .local
+: 1705849724:0;pwd
+: 1705849725:0;l
+: 1705849726:0;ll
+: 1705849741:0;cd dotfiles/sddm && l
+: 1705849745:0;l
+: 1705849747:0;ll
+: 1705849751:0;l
+: 1705849752:0;ll
+: 1705849756:0;pwd
+: 1705849760:0;l
+: 1705849774:0;cd dotfiles/sddm/themes/Sugar-Candy && l
+: 1705849779:0;l
+: 1705849780:0;pwd
+: 1705849782:0;ll
+: 1705849792:0;l
+: 1705849801:0;l dotfiles
+: 1705849803:0;l dotfiles/sddm
+: 1705849805:0;l
+: 1705849812:0;l dotfiles/sddm/themes/Sugar-Candy/Backgrounds
+: 1705849816:0;l
+: 1705849819:0;D
+: 1705849879:0;cd .config && l
+: 1705849894:0;cd Code/User && l
+: 1705849897:0;l
+: 1705849899:0;ll
+: 1705849919:0;cd zsh && l
+: 1705849921:0;l
+: 1705849921:0;ll
+: 1705849971:0;l
+: 1705849972:0;D
+: 1705849998:0;cd backup && l
+: 1705850014:0;cd . && l
+: 1705850016:0;l
+: 1705850024:0;h
+: 1705850050:0;cd .cache && l
+: 1705850052:0;h
+: 1705850059:0;cd Music && l
+: 1705850060:0;l
+: 1705850061:0;ll
+: 1705850070:0;h
+: 1705850073:0;cd Pictures && l
+: 1705850075:0;l
+: 1705850092:0;h
+: 1705850106:0;l
+: 1705850108:0;h
+: 1705850111:0;cd Music && l
+: 1705850127:0;l
+: 1705850138:0;h
+: 1705850202:0;cd .ssh && l
+: 1705850206:0;h
+: 1705850207:0;D
+: 1705850210:0;ll
+: 1705850218:0;cd hyprdots && l
+: 1705850222:0;l Source
+: 1705850224:0;l Scripts
+: 1705850231:0;cd Scripts && l
+: 1705850233:0;D
+: 1705850279:0;man ag
+: 1705850568:0;v /home/zerohack/.config/shell/profile
+: 1705850670:0;cd dotfiles/.config/nvim/..git && l
+: 1705850685:0;pwd
+: 1705850692:0;D
+: 1705850918:0;man ag
+: 1705851044:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705851109:0;man ag
+: 1705851350:0;l
+: 1705851352:0;ll
+: 1705855628:0;cd //home/zerohack/Downloads/larbs && l
+: 1705855643:0;cd //home/zerohack/.config && l
+: 1705855650:0;cd //home/zerohack && l
+: 1705855658:0;pwd
+: 1705855661:0;v key-bindings.zsh
+: 1705855686:0;cd .config && l
+: 1705855690:0;cd zsh && l
+: 1705855694:0;h
+: 1705855695:0;cd Downloads/larbs && l
+: 1705855696:0;h
+: 1705855701:0;cd Downloads/backup && l
+: 1705855703:0;h
+: 1705855707:0;cd .config/shell && l
+: 1705855708:0;h
+: 1705855717:0;cd .config/shell && l
+: 1705855718:0;h
+: 1705855724:0;cd .config && l
+: 1705855724:0;h
+: 1705855731:0;l .config
+: 1705855739:0;cd .config/kitty && l
+: 1705855743:0;l themes
+: 1705855745:0;h
+: 1705859221:0;htop
+: 1705859231:0;pidof foot
+: 1705859234:0;pidof footclient
+: 1705859245:0;cd Downloads/larbs && l
+: 1705859253:0;cd .config/fzf && l
+: 1705859258:0;cd . && l
+: 1705859259:0;h
+: 1705859261:0;cd .config/zsh && l
+: 1705859265:0;h
+: 1705859268:0;cd .config/zsh/fast-syntax-highlighting && l
+: 1705859271:0;h
+: 1705859276:0;cd Downloads/larbs/dtos && l
+: 1705859278:0;h
+: 1705859290:0;cd .config/hypr && l
+: 1705859292:0;cf
+: 1705859294:0;h
+: 1705859298:0;cd .config/pulse && l
+: 1705859300:0;h
+: 1705859301:0;cd paru-bin && l
+: 1705859303:0;h
+: 1705859305:0;htop
+: 1705859379:0;D
+: 1705859425:0;h
+: 1705859503:0;D
+: 1705859618:0;h
+: 1705859681:0;D
+: 1705860245:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1705860350:0;h
+: 1705860356:0;cd Downloads/larbs && l
+: 1705860360:0;h
+: 1705860364:0;cd Downloads/dotfiles/.config/alacritty && l
+: 1705860366:0;h
+: 1705860367:0;cd Downloads/dotfiles/.config/alacritty && l
+: 1705860368:0;h
+: 1705860375:0;cd .config/shell && l
+: 1705860377:0;h
+: 1705860380:0;cd Downloads/larbs && l
+: 1705860381:0;h
+: 1706053241:0;pacman -Syy
+: 1706053245:0;sudo pacman -Syy
+: 1706053380:0;cd Downloads/larbs && l
+: 1706285055:0;D
+: 1706285056:0;htop
+: 1706285061:0;sudo pacman -Syy
+: 1706285072:0;pidof foot
+: 1706285075:0;pidof footclient
+: 1706285082:0;cd backup && l
+: 1706285083:0;l
+: 1706285085:0;v key-bindings.zsh
+: 1706285106:0;D
+: 1706285125:0;cf
+: 1706285128:0;l Code/CachedExtensionVSIXs
+: 1706285130:0;D
+: 1706285135:0;h
+: 1706285136:0;D
+: 1706285168:0;git clone https://github.com/nvchad/nvchad ~/.config/nvim --depth 1
+: 1706285175:0;cd backup && l
+: 1706285176:0;h
+: 1706285184:0;cd .config/nvim && l
+: 1706285190:0;h
+: 1706285192:0;D
+: 1706285192:0;v
+: 1706285233:0;htop
+: 1706285268:0;sudo pacman -S npm node-js
+: 1706285281:0;sudo pacman -S nodejs npm
+: 1706285312:0;v /home/zerohack/Downloads/larbs/archinstall.sh
+: 1706285334:0;sudo pacman -S archlinux-keyring
+: 1706285367:0;v
+: 1706285379:0;htop
+: 1706285383:0;v
+: 1706285501:0;cf
+: 1706285502:0;v
+: 1706285673:0;D
+: 1706285673:0;v
+: 1706285882:0;cf
+: 1706285884:0;v
+: 1706286107:0;l
+: 1706286115:0;v shell/inputrc
+: 1706286127:0;cd zsh && l
+: 1706286128:0;ll
+: 1706286131:0;nvim .zshrc
+: 1706286173:0;l
+: 1706286174:0;D
+: 1706286175:0;cfz
+: 1706286192:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1706286215:0;h
+: 1706286223:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1706286235:0;v /home/zerohack/Downloads/larbs/dtos/convert.sh
+: 1706286252:0;v /home/zerohack/Downloads/larbs/dtos/dtos
+: 1706286345:0;v
+: 1706286522:0;pidof footclient
+: 1706286527:0;pidof foot
+: 1706286529:0;v
+: 1706286564:0;cfz
+: 1706286768:0;htop
+: 1706286776:0;pidof foot
+: 1706286779:0;pidof footclient
+: 1706286798:0;sdn
+: 1707411942:0;sudo pacman -Syy
+: 1707411966:0;cd Downloads/larbs && l
+: 1707411972:0;cd dtos/dotfiles/.xmonad/xmonad-example-configs && l
+: 1707411973:0;h
+: 1707411976:0;cd .config && l
+: 1707411979:0;h
+: 1707411986:0;cd .config/shell && l
+: 1707411998:0;pidof foot
+: 1707412002:0;pidof footclient
+: 1707412008:0;htop
+: 1707412049:0;D
+: 1707412053:0;sudo pacman -Syy
+: 1707412065:0;h
+: 1707412068:0;cd .config/foot && l
+: 1707412071:0;cat catppuccin
+: 1707412072:0;cat foot.ini
+: 1707412081:0;v foot.ini
+: 1707412159:0;l
+: 1707412164:0;v foot.ini
+: 1707412186:0;l
+: 1707412192:0;v foot.ini
+: 1707412207:0;l
+: 1707412210:0;htop
+: 1707412218:0;l
+: 1707412220:0;cat catppuccin
+: 1707412224:0;cat dracula
+: 1707412227:0;l
+: 1707412230:0;v foot.ini
+: 1707412273:0;v /home/zerohack/.config/foot/foot.ini
+: 1707412287:0;cd .config/hypr && l
+: 1707412289:0;l
+: 1707412294:0;l themes
+: 1707412297:0;cd themes && l
+: 1707412303:0;v Frosted-Glass.conf
+: 1707412306:0;v Catppuccin-Mocha.conf
+: 1707412332:0;l
+: 1707412336:0;cat common.conf
+: 1707412338:0;cat colors.conf
+: 1707412340:0;l
+: 1707412347:0;cat common.conf
+: 1707412348:0;l
+: 1707412366:0;v Tokyo-Night.conf
+: 1707412373:0;l
+: 1707412384:0;pwd
+: 1707412384:0;l
+: 1707412410:0;echo $SHELL
+: 1707412414:0;cfz
+: 1707412443:0;v /home/zerohack/.config/zsh/.zshrc
+: 1707412454:0;cd ..
+: 1707412455:0;l
+: 1707412464:0;v animations.conf
+: 1707412479:0;v keybindings.conf
+: 1707412486:0;l
+: 1707412489:0;cat monitors.conf
+: 1707412493:0;cat theme.ctl
+: 1707412520:0;cd . && l
+: 1707412522:0;h
+: 1707412528:0;cd .config/swww/Catppuccin-Mocha && l
+: 1707412530:0;l
+: 1707412585:0;h
+: 1707412589:0;cd .config/hypr && l
+: 1707412595:0;cat userprefs.conf
+: 1707412599:0;v windowrules.conf
+: 1707412681:0;h
+: 1707412686:0;v /home/zerohack/.config/foot/foot.ini
+: 1707412717:0;l
+: 1707412725:0;v /home/zerohack/.config/foot/foot.ini
+: 1707412766:0;htop
+: 1707412778:0;l
+: 1707412781:0;htop
+: 1707412800:0;echo $TERM
+: 1707412811:0;cd .config/hypr && l
+: 1707412813:0;v hyprland.conf
+: 1707412844:0;l
+: 1707412850:0;v animations.conf
+: 1707412863:0;v /home/zerohack/.config/foot/catppuccin
+: 1707412900:0;v
+: 1707412923:0;pwd
+: 1707412924:0;l
+: 1707412929:0;ip addr show | grep -i inet
+: 1707412933:0;exit
+: 1707412937:0;echo $TERM
+: 1707412941:0;cd . && l
+: 1707412943:0;cd scripts && l
+: 1707412945:0;cd ..
+: 1707412947:0;l
+: 1707412953:0;cd scripts && l
+: 1707412957:0;cd ..
+: 1707412957:0;l
+: 1707412969:0;v keybindings.conf
+: 1707412991:0;echo $TERM
+: 1707413014:0;echo $term
+: 1707413023:0;htop
+: 1707413070:0;pidof foot
+: 1707413073:0;pidof footclient
+: 1707413159:0;l
+: 1707413161:0;v keybindings.conf
+: 1707413199:0;l
+: 1707413219:0;v
+: 1707413246:0;exit
+: 1707413270:0;v
+: 1707413280:0;v keybindings.conf
+: 1707413348:0;cd . && l
+: 1707413350:0;h
+: 1707413351:0;cd .config/foot && l
+: 1707413355:0;v foot.ini
+: 1707413486:0;v /home/zerohack/.config/hypr/hyprland.conf
+: 1707413532:0;l
+: 1707413537:0;cat foot.ini
+: 1707413541:0;v foot.ini
+: 1707413569:0;echo $term
+: 1707413584:0;echo $TERM
+: 1707413597:0;h
+: 1707413601:0;cd .config/hypr && l
+: 1707413606:0;v keybindings.conf
+: 1707413759:0;echo $TERM
+: 1707413768:0;cd scripts && l
+: 1707413769:0;h
+: 1707413771:0;cd .config/foot && l
+: 1707413778:0;v foot.ini
+: 1707413810:0;echo $TERM
+: 1707414018:0;v /home/zerohack/.config/foot/foot.ini
+: 1707414033:0;echo $TERM
+: 1707414040:0;echo $term
+: 1707414049:0;htop
+: 1707414072:0;echo $term
+: 1707414074:0;echo $TERM
+: 1707414236:0;echo $term
+: 1707414248:0;pidof foot
+: 1707414259:0;pidof footclient
+: 1707414263:0;htop
+: 1707414281:0;cd Downloads/larbs && l
+: 1707414282:0;D
+: 1707414287:0;cd dotfiles && l
+: 1707414289:0;D
+: 1707414292:0;cd larbs && l
+: 1707414295:0;pwd
+: 1707414304:0;v /home/zerohack/.config/shell/profile
+: 1707414333:0;v /home/zerohack/.config/shell/aliasrc
+: 1707414357:0;touch file1
+: 1707414359:0;D
+: 1707414364:0;h
+: 1707414368:0;cd .config/hypr && l
+: 1707414370:0;l
+: 1707414386:0;v windowrules.conf
+: 1707414398:0;l
+: 1707414403:0;cp windowrules.conf windowrules.conf.bak
+: 1707414404:0;l
+: 1707414412:0;v /home/zerohack/.config/zsh/.zshrc
+: 1707414488:0;v windowrules.conf
+: 1707414491:0;l
+: 1707414493:0;v windowrules.conf
+: 1707414556:0;htop
+: 1707414563:0;pidof foot
+: 1707414568:0;pidof footclient
+: 1707414589:0;pidof foot
+: 1707414813:0;cf
+: 1707414819:0;cfz
+: 1707415120:0;pidof foot
+: 1707415125:0;pidof footclient
+: 1707415134:0;c
+: 1707415135:0;cf
+: 1707415138:0;cd foot && l
+: 1707415144:0;cat foot.ini
+: 1707415146:0;cf
+: 1707415148:0;cd foot && l
+: 1707415151:0;cf
+: 1707415154:0;cd hypr && l
+: 1707415155:0;l
+: 1707415157:0;v windowrules.conf
+: 1707415195:0;l
+: 1707415201:0;v windowrules.conf
+: 1707415295:0;htop
+: 1707415300:0;pwd
+: 1707415300:0;l
+: 1707415364:0;cfz
+: 1707415567:0;htop
+: 1707415592:0;cf
+: 1707415595:0;cd hypr && l
+: 1707415596:0;l
+: 1707415599:0;v windowrules.conf
+: 1707415898:0;hto
+: 1707415901:0;htop
+: 1707415927:0;cf
+: 1707415929:0;cd foot && l
+: 1707415930:0;cf
+: 1707415932:0;cd htop && l
+: 1707415934:0;cf
+: 1707415937:0;cd hypr && l
+: 1707415942:0;v windowrules.conf
+: 1707415985:0;htop
+: 1707416008:0;pidof footclient
+: 1707416014:0;pidof foot
+: 1707416024:0;htop
+: 1707416039:0;pidof foot
+: 1707416043:0;pidof footclient
+: 1707416059:0;pidof foot
+: 1707416062:0;pidof footclient
+: 1707416106:0;cfz
+: 1707416116:0;htop
+: 1707416121:0;pwd
+: 1707416122:0;l
+: 1707416125:0;ip addr show | grep -i inet
+: 1707416142:0;l .vscodei
+: 1707416146:0;l
+: 1707416147:0;pwd
+: 1707416147:0;l
+: 1707416151:0;D
+: 1707416152:0;l
+: 1707416155:0;cd backup && l
+: 1707416156:0;l
+: 1707416157:0;D
+: 1707416345:0;htop
+: 1707416401:0;v /home/zerohack/.config/hypr/windowrules.conf
+: 1707416510:0;htop
+: 1707416512:0;v
+: 1707416570:0;D
+: 1707416578:0;pwd
+: 1707416578:0;l
+: 1708729449:0;htop
+: 1708729451:0;l
+: 1708729453:0;pwd
+: 1708729453:0;l
+: 1708729463:0;cd Downloads/larbs && l
+: 1708729464:0;D
+: 1708729465:0;l
+: 1708729478:0;v /home/zerohack/.config/foot/foot.ini
+: 1708729493:0;v
+: 1708729517:0;v /home/zerohack/.config/zsh/.zshrc
+: 1708729525:0;cf
+: 1708729528:0;cd hypr && l
+: 1708729530:0;v hyprland.conf
+: 1708729611:0;l
+: 1708729615:0;footclient --help
+: 1708729633:0;l
+: 1708729637:0;footclient --help
+: 1708729661:0;htop
+: 1708729676:0;pidof foot
+: 1708729681:0;pidof footclient
+: 1708729704:0;footclient --help
+: 1708729865:0;v /home/zerohack/.config/zsh/.zshrc
+: 1708729906:0;man footclient
+: 1708729963:0;pwd
+: 1708730017:0;cf
+: 1708730019:0;cd foot && l
+: 1708730021:0;cf
+: 1708730027:0;cd Code/User && l
+: 1708730029:0;cd ..
+: 1708730029:0;l
+: 1708730031:0;cd logs
+: 1708730031:0;l
+: 1708730043:0;du -ckx | sort -n
+: 1708730045:0;cf
+: 1708730047:0;cd foot && l
+: 1708730049:0;l
+: 1708730051:0;cat foot.ini
+: 1708730058:0;footclient --help
+: 1708730070:0;head foot.ini
+: 1708730095:0;footclient --help
+: 1708730100:0;head foot.ini
+: 1708730149:0;footclient --override=[colors]alpha=1.0
+: 1708730159:0;footclient --override=[colors.]alpha=1.0
+: 1708730168:0;footclient -o [colors.]alpha=1.0
+: 1708730174:0;footclient -o "[colors.]alpha=1.0"
+: 1708730188:0;footclient -o "[colors]alpha=1.0"
+: 1708730213:0;footclient -o [colors]alpha=1.0
+: 1708730219:0;footclient -o '[colors]alpha=1.0'
+: 1708730230:0;footclient -o "[colors] alpha=1.0"
+: 1708730239:0;footclient -o "[colors] alpha=0.5"
+: 1708730248:0;footclient -o "[colors].alpha=1.0"
+: 1708730260:0;footclient --help
+: 1708730304:0;footclient --override="[colors.]alpha=1.0"
+: 1708730322:0;footclient --override="[colors]alpha=1.0"
+: 1708730365:0;nvim foot.ini
+: 1708730398:0;footclient --override="alpha=1.0"
+: 1708730415:0;footclient --override="[colors] alpha=1.0"
+: 1708730425:0;footclient --override="[colors.]alpha=1.0"
+: 1708730499:0;nvim foot.ini
+: 1708730552:0;footclient --override="[main.]alpha=1.0"
+: 1708730561:0;footclient --override="[main]alpha=1.0"
+: 1708730571:0;footclient --override="[color]alpha=1.0"
+: 1708730579:0;footclient --override="[colors]alpha=1.0"
+: 1708730587:0;footclient --override="[colors,]alpha=1.0"
+: 1708730593:0;footclient --override="[colors.]alpha=1.0"
+: 1708730626:0;footclient --override="[main.colors]alpha=1.0"
+: 1708730633:0;footclient --override="[.colors]alpha=1.0"
+: 1708730648:0;footclient --override="[colors]alpha=1.0"
+: 1708730661:0;nvim foot.ini
+: 1708730675:0;l f
+: 1708730683:0;footclient --override="[colors]alpha:1.0"
+: 1708730692:0;footclient --override="[colors]alpha=1.0"
+: 1708730705:0;footclient -o "[colors]alpha=1.0"
+: 1708730715:0;footclient -o [colors]alpha=1.0
+: 1708730725:0;footclient -o "[colors].alpha=1.0"
+: 1708730733:0;footclient -o "[colors]alpha=1.0"
+: 1708730760:0;footclient --override="[colors]alpha=1.0"
+: 1708730784:0;man footclient
+: 1708730833:0;footclient --override="[colors.]alpha=1.0"
+: 1708730847:0;footclient --override="[colors.]]alpha=1.0"
+: 1708730858:0;footclient --override="[colors.]alpha=1.0"
+: 1708730865:0;footclient --override="alpha=1.0"
+: 1708730894:0;footclient --override="[main.][colors.]alpha=1.0"
+: 1708730903:0;footclient --override="[main][colors.]alpha=1.0"
+: 1708730907:0;footclient --override="[main][colors]alpha=1.0"
+: 1708730924:0;nvim foot.ini
+: 1708730942:0;footclient --override="[colors]alpha=1.0"
+: 1708730968:0;footclient --override="[colors]alpha:1.0"
+: 1708730976:0;footclient --override="[colors]alpha=1.0"
+: 1708731011:0;footclient --help
+: 1708731028:0;footclient --override="[section.]alpha=1.0"
+: 1708731038:0;footclient --override="[main.]alpha=1.0"
+: 1708731047:0;footclient --override="[main]alpha=1.0"
+: 1708731057:0;footclient --override="[main].alpha=1.0"
+: 1708731064:0;footclient --override="[main,]alpha=1.0"
+: 1708731068:0;footclient --override="[main.]alpha=1.0"
+: 1708731078:0;footclient --override=".alpha=1.0"
+: 1708731087:0;footclient --override="colors.alpha=1.0"
+: 1708731095:0;footclient --override="colors.alpha=0.8"
+: 1708731105:0;footclient --override="colors.alpha=0.5"
+: 1708731133:0;v /home/zerohack/.config/hypr/themes/colors.conf
+: 1708731143:0;cd .config/hypr/themes && l
+: 1708731149:0;v Catppuccin-Mocha.conf
+: 1708731198:0;footclient --override="colors.alpha=0.8"
+: 1708731211:0;htop
+: 1708731231:0;cd ..
+: 1708731232:0;l
+: 1708731244:0;cat keybindings.conf
+: 1708731248:0;v keybindings.conf
+: 1708731371:0;l
+: 1708731402:0;v hyprland.conf
+: 1708731414:0;l
+: 1708731420:0;cd
+: 1708731424:0;v /home/zerohack/.config/zsh/.zshrc
+: 1708731467:0;v /home/zerohack/.config/shell/profile
+: 1708731492:0;htop
+: 1708731532:0;v /home/zerohack/.config/zsh/.zshrc
+: 1708731545:0;htop
+: 1708731564:0;ip addr show | grep -i inet
+: 1708731575:0;v /home/zerohack/.config/zsh/.zshrc
+: 1708731602:0;ip addr show | grep -i inet
+: 1708731604:0;pwd
+: 1708731607:0;ip addr show | grep -i inet
+: 1708731665:0;pwd
+: 1708731680:0;v /home/zerohack/.config/shell/profile
+: 1708731691:0;l
+: 1708731693:0;ll
+: 1708731707:0;pwd
+: 1708731710:0;l
+: 1708731726:0;ll
+: 1708731748:0;footclient --override="colors.alpha=1.0"
+: 1708731751:0;pwd
+: 1708731751:0;l
+: 1708731754:0;htop
+: 1708731757:0;pwd
+: 1708731766:0;l
+: 1708731768:0;pwd
+: 1708731769:0;htop
+: 1708731775:0;pwd
+: 1708731776:0;htop
+: 1708731786:0;pidof foot
+: 1708731792:0;pidof footclient
+: 1708811221:0;htop
+: 1708811696:0;cat .config/foot/foot.ini
+: 1708811889:0;pidof foot
+: 1708811899:0;pidof footclient
+: 1708811911:0;htop
+: 1708812102:0;cd .config/foot && l
+: 1708812105:0;v foot.ini
+: 1708812141:0;cd ..
+: 1708812145:0;cd hypr && l
+: 1708812149:0;v hyprland.conf
+: 1708812154:0;v keybindings.conf
+: 1708812493:0;htop
+: 1708817051:0;cd
+: 1708817053:0;htop
+: 1708817138:0;sdn
+: 1712481329:0;htop
+: 1712481331:0;l
+: 1712481344:0;v .config/hypr/hyprland.conf
+: 1712481360:0;v .config/hypr/keybindings.conf
+: 1712481436:0;v .config/foot/foot.ini
+: 1712481451:0;l
+: 1712481456:0;cd Downloads && l
+: 1712481461:0;cd backup && l
+: 1712481464:0;l
+: 1712481466:0;v key-bindings.zsh
+: 1712481495:0;pwd
+: 1712481517:0;ip addr show | grep -i inet
+: 1712481520:0;htop
+: 1712481537:0;pwd
+: 1712481538:0;l
+: 1712481541:0;ip addr show | grep -i inet
+: 1712481543:0;l
+: 1712481548:0;cd
+: 1712481550:0;pwd
+: 1712481550:0;D
+: 1712481551:0;l
+: 1712481553:0;ll
+: 1712481553:0;h
+: 1712481554:0;l
+: 1712481555:0;ll
+: 1712481571:0;v .p10k.zsh
+: 1712481575:0;nvim .zprofile
+: 1712481594:0;l
+: 1712481604:0;v /home/zerohack/.config/hypr/hyprland.conf
+: 1712481630:0;v /home/zerohack/.config/hypr/keybindings.conf
+: 1712481679:0;v .config/foot/foot.ini
+: 1712481685:0;pwd
+: 1712481686:0;l
+: 1712481696:0;cd .config/fzf && l
+: 1712481696:0;l
+: 1712481699:0;v key-bindings.zsh
+: 1712481738:0;D
+: 1712481744:0;v backup/key-bindings.zsh
+: 1712481757:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481765:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481780:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481787:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481796:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481807:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1712481814:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481819:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712481875:0;v /home/zerohack/.config/zsh/.zshrc
+: 1712481947:0;ip addr show | grep -i inet
+: 1712481958:0;cd Downloads/larbs && l
+: 1712481964:0;ip addr show | grep -i inet
+: 1712482025:0;h
+: 1712482028:0;l
+: 1712482077:0;ll
+: 1712482079:0;l
+: 1712482083:0;alias l
+: 1712482088:0;alias ls
+: 1712482097:0;alias | grep -i l
+: 1712482101:0;l
+: 1712482102:0;ll
+: 1712482103:0;l
+: 1712482108:0;alias | grep -i l
+: 1712482112:0;alias | grep -i eza
+: 1712482121:0;l
+: 1712482123:0;ll
+: 1712482124:0;l
+: 1712482124:0;ll
+: 1712482137:0;v .config/shell/profile
+: 1712482225:0;pwd
+: 1712482287:0;pidof foot
+: 1712482291:0;pidof footclient
+: 1712482296:0;htop
+: 1712482317:0;v /home/zerohack/.config/hypr/hyprland.conf
+: 1712482345:0;cd .config/hypr/themes && l
+: 1712482354:0;h
+: 1712482361:0;l
+: 1712482373:0;v completion.zsh
+: 1712482470:0;cd /usr/share/fzf
+: 1712482470:0;l
+: 1712482476:0;nvim completion.zsh
+: 1712482487:0;h
+: 1712482491:0;cfz
+: 1712482511:0;l
+: 1712482513:0;cf
+: 1712482515:0;cd fzf && l
+: 1712482571:0;cd .config/fzf && l
+: 1712482657:0;cfz
+: 1712482721:0;alias | grep -i eza
+: 1712482723:0;cfz
+: 1712482883:0;htop
+: 1712482911:0;v /home/zerohack/.config/shell/profile
+: 1712482977:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1712483062:0;pwd
+: 1712483067:0;l
+: 1712483077:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712483080:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712483111:0;sdn
+: 1712488181:0;cd Downloads/larbs && l
+: 1712488188:0;cd Downloads/backup && l
+: 1712488192:0;ip addr show | grep -i inet
+: 1712488199:0;systemctl status btrfs-scrub@dev-sda2.timer
+: 1712488211:0;snapper list
+: 1712488237:0;l
+: 1712488262:0;pwd
+: 1712488263:0;l
+: 1712488276:0;sudo pacman -S rsync
+: 1712488364:0;rsync -avz key-bindings.zsh zerohack@192.168.18.28:/home/zerohack/Downloads/backup
+: 1712488694:0;l
+: 1712488703:0;h
+: 1712488710:0;cd .config/fzf && l
+: 1712488711:0;l
+: 1712488716:0;v key-bindings.zsh
+: 1712488762:0;rsync -avz key-bindings.zsh zerohack@192.168.18.28:/home/zerohack/Downloads/backup
+: 1712488828:0;h
+: 1712488840:0;cd .cache && l
+: 1712488847:0;cd
+: 1712488855:0;v .zsh_history
+: 1712488875:0;l
+: 1712488876:0;ll
+: 1712488882:0;cfz
+: 1712488913:0;v /home/zerohack/.config/zsh/.zshrc
+: 1712488918:0;cd . && l
+: 1712488919:0;D
+: 1712488932:0;v /home/zerohack/.zsh_history
+: 1712488978:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712488993:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712489015:0;h
+: 1712489021:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712489025:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712489045:0;l
+: 1712489047:0;ll
+: 1712489051:0;v .zsh_history
+: 1712489058:0;ip addr show | grep -i inet
+: 1712489064:0;v .zsh_history
+: 1712489109:0;l
+: 1712489110:0;ll
+: 1712489119:0;cd .config/zsh && l
+: 1712489120:0;ll
+: 1712489124:0;v .zshrc
+: 1712489136:0;cd
+: 1712489137:0;l
+: 1712489140:0;v /home/zerohack/.config/shell/profile
+: 1712489167:0;cd .local/share && l
+: 1712489169:0;ll
+: 1712489174:0;v history
+: 1712489196:0;cd
+: 1712489197:0;l
+: 1712489199:0;ll
+: 1712489208:0;pwd
+: 1712489213:0;v /home/zerohack/.config/shell/profile
+: 1712489232:0;echo $HISTFILE
+: 1712489256:0;cd .local/share && l
+: 1712489270:0;rsync -avz history zerohack@192.168.18.28:/home/zerohack/Downloads/backup
+: 1712489275:0;l
+: 1712489277:0;h
+: 1712489278:0;ll
+: 1712489289:0;cd .config/zsh && l
+: 1712489290:0;ll
+: 1712489307:0;rsync -avz .zshrc zerohack@192.168.18.28:/home/zerohack/Downloads/backup
+: 1712489312:0;h
+: 1712489313:0;ll
+: 1712489330:0;pwd
+: 1712489330:0;l
+: 1712489331:0;ll
+: 1712489609:0;rr
+: 1712489613:0;v history
+: 1712489626:0;rsync -avz history zerohack@192.168.18.28:/home/zerohack/Downloads/backup
+: 1712493841:0;pidof foot
+: 1712493847:0;pidof footclient
+: 1712493860:0;pidof foot
+: 1712493865:0;htop
+: 1712493876:0;D
+: 1712493889:0;sudo pacman -S ncdu
+: 1712493920:0;rr
+: 1712493941:0;ncdu flatpak
+: 1712493986:0;D
+: 1712493989:0;df -h
+: 1712493997:0;rr
+: 1712494003:0;cd flatpak && l
+: 1712494006:0;du -ckx | sort -n
+: 1712494022:0;D
+: 1712494023:0;pwd
+: 1712494028:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494030:0;h
+: 1712494032:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494049:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494068:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494073:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494080:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494086:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494111:0;c
+: 1712494116:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494123:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494136:0;v /home/zerohack/.config/fzf/key-bindings.zsh
+: 1712494188:0;D
+: 1712494194:0;cd backup && l
+: 1712494216:0;v /home/zerohack/.config/fzf/key-bindings-rg.zsh
+: 1712494268:0;h
+: 1712494269:0;c
+: 1712494273:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494279:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712494292:0;htop
+: 1712494300:0;D
+: 1712494307:0;cd //home/zerohack/.cache && l
+: 1712494316:0;cd //home/zerohack/.local/share/flatpak && l
+: 1712494317:0;l
+: 1712494334:0;cd //home/zerohack/.config/swww/One-Dark && l
+: 1712494337:0;..
+: 1712494338:0;l
+: 1712494342:0;du
+: 1712494346:0;du -ckx | sort -n
+: 1712494363:0;du -ckxh | sort -n
+: 1712494370:0;cd //home/zerohack/.local/share/flatpak && l
+: 1712494373:0;du -ckxh | sort -n
+: 1712494386:0;cd repo && l
+: 1712494387:0;du -ckxh | sort -n
+: 1712494408:0;D
+: 1712494409:0;pwd
+: 1712494411:0;htop
+: 1712494416:0;pwd
+: 1712494416:0;l
+: 1712494419:0;htop
+: 1712494469:0;pwd
+: 1712494469:0;l
+: 1712494470:0;h
+: 1712494485:0;pwd
+: 1712494488:0;l
+: 1712494491:0;cfz
+: 1712494574:0;cd //home/zerohack/Downloads/larbs && l
+: 1712494582:0;cd //home/zerohack/.cache && l
+: 1712494588:0;du -ckxh | sort -n
+: 1712494596:0;cfz
+: 1712494614:0;pc
+: 1712494644:0;po
+: 1712494651:0;cfz
+: 1712494673:0;h
+: 1712494674:0;po
+: 1712494700:0;alias po
+: 1712494704:0;cfz
+: 1712494739:0;pwd
+: 1712494745:0;cd //home/zerohack/Downloads/dotfiles && l
+: 1712494774:0;v /home/zerohack/.config/starship.toml
+: 1712494857:0;cd //home/zerohack/.local/share/dolphin && l
+: 1712494859:0;cd //home/zerohack/Downloads/larbs && l
+: 1712494863:0;cd //home/zerohack/Downloads/dotfiles && l
+: 1712494870:0;cd //home/zerohack/Downloads/hyprdots && l
+: 1712494891:0;pwd
+: 1712494896:0;htop
+: 1712494916:0;cd //home/zerohack/Downloads/larbs && l
+: 1712494919:0;l
+: 1712494920:0;ll
+: 1712494929:0;cat .zshrc.bak
+: 1712494944:0;cd .var && l
+: 1712494945:0;l
+: 1712494946:0;ll
+: 1712494948:0;du -ckxh | sort -n
+: 1712494952:0;cd app && l
+: 1712494952:0;l
+: 1712494953:0;ll
+: 1712494957:0;du -ckxh | sort -n
+: 1712494959:0;h
+: 1712494960:0;ll
+: 1712494970:0;pwd
+: 1712494977:0;cd //home/zerohack/.config && l
+: 1712494980:0;h
+: 1712494983:0;l
+: 1712494985:0;c
+: 1712494997:0;cd //home/zerohack/.cache && l
+: 1712495017:0;ip addr show | grep -i inet
+: 1712495025:0;cfz
+: 1712495034:0;pwd
+: 1712495040:0;D
+: 1712495043:0;cfz
+: 1712495049:0;pwd
+: 1712495053:0;cf
+: 1712495058:0;v starship.toml
+: 1712495116:0;pwd
+: 1712495117:0;l
+: 1712495119:0;D
+: 1712495124:0;h
+: 1712495141:0;v /home/zerohack/.config/starship.toml
+: 1712495237:0;pwd
+: 1712495241:0;ip addr show | grep -i inet
+: 1712495713:0;ptpwd
+: 1712495718:0;ptls
+: 1712495721:0;pwd
+: 1712495728:0;ip addr show | grep -i inet
+: 1712495740:0;D
+: 1712495745:0;cd dotfiles && l
+: 1712495746:0;pwd
+: 1712496009:0;starship preset tokyo-night -o ~/.config/starship.toml
+: 1712496039:0;ip addr show | grep -i inet
+: 1712496045:0;pwd
+: 1712496048:0;D
+: 1712496062:0;cd larbs && l
+: 1712496068:0;D
+: 1712496070:0;l
+: 1712496075:0;h
+: 1712496079:0;l
+: 1712496083:0;cd Pictures
+: 1712496110:0;starship preset pure-preset -o ~/.config/starship.toml
+: 1712496111:0;pwd
+: 1712496112:0;l
+: 1712496113:0;D
+: 1712496114:0;l
+: 1712496115:0;pwd
+: 1712496122:0;cf
+: 1712496125:0;v starship.toml
+: 1712496156:0;v nerd-font-symbols.toml
+: 1712496166:0;v starship.toml
+: 1712496187:0;pwd
+: 1712496193:0;ip addr show | grep -i inet
+: 1712496194:0;cf
+: 1712496197:0;v starship.toml
+: 1712496221:0;pwd
+: 1712496223:0;ip addr show | grep -i inet
+: 1712496224:0;D
+: 1712496233:0;cf
+: 1712496235:0;D
+: 1712496262:0;v /home/zerohack/.config/nerd-font-symbols.toml
+: 1712496291:0;pwd
+: 1712496292:0;l
+: 1712496295:0;cf
+: 1712496298:0;v starship.toml
+: 1712496316:0;pwd
+: 1712496318:0;ip addr show | grep -i inet
+: 1712496323:0;v starship.toml
+: 1712496336:0;ip addr show | grep -i inet
+: 1712496340:0;v shell/bm-dirs
+: 1712496343:0;v starship.toml
+: 1712496356:0;ip addr show | grep -i inet
+: 1712496358:0;cf
+: 1712496360:0;l
+: 1712496366:0;v starship.toml
+: 1712496391:0;starship preset tokyo-night -o ~/.config/starship.toml
+: 1712496394:0;pwd
+: 1712496395:0;D
+: 1712496398:0;cf
+: 1712496400:0;v starship.toml
+: 1712496406:0;cat starship.toml
+: 1712496411:0;v starship.toml
+: 1712496473:0;cf
+: 1712496480:0;cp starship.toml starship.toml.bak
+: 1712496513:0;starship preset gruvbox-rainbow -o ~/.config/starship.toml
+: 1712496537:0;starship preset bracketed-segments -o ~/.config/starship.toml
+: 1712496548:0;starship preset jetpack -o ~/.config/starship.toml
+: 1712496549:0;pwd
+: 1712496551:0;ip addr show | grep -i inet
+: 1712496553:0;D
+: 1712496557:0;cf
+: 1712496560:0;h
+: 1712496574:0;cd Pictures
+: 1712496575:0;pwd
+: 1712496576:0;l
+: 1712496578:0;ll
+: 1712496580:0;h
+: 1712496583:0;cd Music
+: 1712496587:0;c
+: 1712496589:0;cf
+: 1712496603:0;starship preset nerd-font-symbols -o ~/.config/starship.toml
+: 1712496604:0;pwd
+: 1712496606:0;D
+: 1712496607:0;cd
+: 1712496609:0;ip addr show | grep -i inet
+: 1712496632:0;D
+: 1712496636:0;cd larbs && l
+: 1712496640:0;D
+: 1712496642:0;cd dotfiles && l
+: 1712496654:0;starship preset pastel-powerline -o ~/.config/starship.toml
+: 1712496658:0;pwd
+: 1712496659:0;D
+: 1712496663:0;cf
+: 1712496667:0;h
+: 1712496669:0;l
+: 1712496672:0;cd Pictures
+: 1712496678:0;D
+: 1712496680:0;h
+: 1712496681:0;cd Videos
+: 1712496683:0;l
+: 1712496685:0;h
+: 1712496700:0;starship preset tokyo-night -o ~/.config/starship.toml
+: 1712496741:0;starship preset nerd-font-symbols -o ~/.config/starship.toml
+: 1712496743:0;pdw
+: 1712496746:0;pwd
+: 1712496748:0;l
+: 1712496750:0;D
+: 1712496757:0;cd larbs && l
+: 1712496760:0;pwd
+: 1712496762:0;l
+: 1712496763:0;D
+: 1712496764:0;cd dotfiles && l
+: 1712496768:0;cf
+: 1712496770:0;D
+: 1712496774:0;cf
+: 1712496790:0;cp nerd-font-symbols.toml starship.toml
+: 1712496793:0;pwd
+: 1712496800:0;D
+: 1712496800:0;pwd
+: 1712496801:0;l
+: 1712496836:0;starship preset nerd-font-symbols -o ~/.config/starship.toml
+: 1712496839:0;l
+: 1712496839:0;cf
+: 1712496843:0;D
+: 1712496848:0;h
+: 1712496851:0;cd Pictures
+: 1712496855:0;pwd
+: 1712496857:0;c
+: 1712496858:0;cf
+: 1712496861:0;v starship.toml.bak
+: 1712496900:0;v starship.toml
+: 1712496959:0;D
+: 1712496965:0;cd
+: 1712496971:0;pwd
+: 1712496974:0;cd Documents
+: 1712496976:0;pwd
+: 1712496977:0;D
+: 1712496988:0;cd larbs && l
+: 1712496998:0;cf
+: 1712497000:0;v starship.toml.bak
+: 1712497013:0;pwd
+: 1712497018:0;v nerd-font-symbols.toml
+: 1712497031:0;v starship.toml
+: 1712497044:0;ip addr show | grep -i inet
+: 1712497059:0;pwd
+: 1712497065:0;v starship.toml
+: 1712497081:0;pwd
+: 1712497082:0;ip addr show | grep -i inet
+: 1712497085:0;pwd
+: 1712497087:0;ip addr show | grep -i inet
+: 1712497091:0;v nerd-font-symbols.toml
+: 1712497099:0;v starship.toml
+: 1712497106:0;pwd
+: 1712497108:0;ip addr show | grep -i inet
+: 1712497109:0;D
+: 1712497119:0;v 
+: 1712497124:0;cf
+: 1712497141:0;v nerd-font-symbols.toml
+: 1712497156:0;v starship.toml
+: 1712497196:0;pwd
+: 1712497206:0;ip addr show | grep -i inet
+: 1712497211:0;D
+: 1712497216:0;time rg -u --hidden --no-config --files --glob '!.*git*' --glob '!.npm*' --null 2> /dev/null | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712497222:0;time ag --hidden --ignore '.gitignore' --ignore-dir '.*git' --null -g ./ | xargs -0 dirname | LC_ALL=C sort -u | wc -l
+: 1712497229:0;h
+: 1712497244:0;v .config/starship.toml
+: 1712497268:0;pwd
+: 1712497286:0;echo $username
+: 1712497295:0;echo $HOME
+: 1712497303:0;cf
+: 1712497312:0;v /home/zerohack/.config/shell/profile
+: 1712497344:0;v
+: 1712497357:0;v starship.toml
+: 1712497386:0;pwd
+: 1712497394:0;l
+: 1712497395:0;ll
+: 1712497399:0;cf
+: 1712497432:0;h
+: 1712497454:0;cd Documents
+: 1712497459:0;h
+: 1712497462:0;cd Music
+: 1712497467:0;cf
+: 1712497472:0;v starship.toml
+: 1712497486:0;D
+: 1712497493:0;h
+: 1712497501:0;D
+: 1712497503:0;..
+: 1712497511:0;cd Documents
+: 1712497515:0;..
+: 1712497517:0;cd Music
+: 1712497520:0;..
+: 1712497525:0;cd Pictures
+: 1712497530:0;cf
+: 1712497532:0;v starship.toml
+: 1712497545:0;..
+: 1712497547:0;D
+: 1712497550:0;..
+: 1712497552:0;cd Pictures
+: 1712497556:0;..
+: 1712497559:0;cd Documents
+: 1712497567:0;l
+: 1712497568:0;D
+: 1712497574:0;cd larbs && l
+: 1712497593:0;cat archinstall.sh
+: 1712497652:0;v 
+: 1712497663:0;v /home/zerohack/.config/starship.toml
+: 1712497698:0;pwd
+: 1712497704:0;v /home/zerohack/.config/shell/profile
+: 1712497765:0;cf
+: 1712497767:0;v starship.toml
+: 1712497791:0;D
+: 1712497795:0;..
+: 1712497799:0;cd Documents
+: 1712497806:0;..
+: 1712497808:0;cd Pictures
+: 1712497810:0;..
+: 1712497812:0;cd Videos
+: 1712497816:0;..
+: 1712497821:0;v /home/zerohack/.config/starship.toml
+: 1712497834:0;cd Music
+: 1712497838:0;..
+: 1712497841:0;cd Downloads
+: 1712497843:0;..
+: 1712497846:0;cd Documents
+: 1712497852:0;..
+: 1712497853:0;cd Videos
+: 1712497865:0;h
+: 1712497869:0;cf
+: 1712497871:0;v /home/zerohack/.config/shell/profile
+: 1712497875:0;cfp
+: 1712497897:0;D
+: 1712497916:0;v /home/zerohack/.config/shell/shortcutrc
+: 1712497930:0;m
+: 1712497931:0;pp
+: 1712497934:0;D
+: 1712497947:0;v /home/zerohack/.config/shell/shortcutrc
+: 1712497953:0;d
+: 1712497957:0;D
+: 1712497958:0;cd larbs && l
+: 1712497970:0;d
+: 1712497999:0;v
+: 1712498075:0;alias l
+: 1712498126:0;pwd
+: 1712498130:0;D
+: 1712498131:0;d
+: 1712498135:0;D
+: 1712498140:0;cd larbs && l
+: 1712498148:0;d
+: 1712498157:0;l
+: 1712498161:0;D
+: 1712498163:0;l
+: 1712498168:0;l larbs
+: 1712498179:0;l larbs > /tmp/bla
+: 1712498203:0;l
+: 1712498207:0;d
+: 1712498208:0;D
+: 1712498210:0;m
+: 1712498212:0;pp
+: 1712498215:0;d
+: 1712498218:0;cf
+: 1712498312:0;l swww/Catppuccin-Latte
+: 1712498318:0;D
+: 1712498320:0;l larbs
+: 1712498328:0;v
+: 1712498349:0;v /home/zerohack/.config/starship.toml
+: 1712498371:0;d
+: 1712498377:0;D
+: 1712498382:0;d
+: 1712498387:0;cf
+: 1712498389:0;v starship.toml
+: 1712498400:0;D
+: 1712498403:0;m
+: 1712498404:0;p
+: 1712498415:0;alias p
+: 1712498441:0;D
+: 1712498448:0;ip addr show | grep -i inet
+: 1712498461:0;cf
+: 1712498467:0;v starship.toml
+: 1712498484:0;v starship.toml.bak
+: 1712498495:0;v nerd-font-symbols.toml
+: 1712498546:0;v 
+: 1712498551:0;v /home/zerohack/Downloads/dotfiles/.config/pure-preset.toml
+: 1712498563:0;echo $username
+: 1712498573:0;echo $hostname
+: 1712498580:0;ip addr show | grep -i inet
+: 1712498583:0;echo $hostname
+: 1712498592:0;echo $username
+: 1712498602:0;ip addr show | grep -i inet
+: 1712498679:0;l
+: 1712498680:0;h
+: 1712498691:0;v .p10k.zsh
+: 1712498733:0;v .local/share/history
+: 1712498779:0;D
+: 1712498785:0;alias D
+: 1712498790:0;h
+: 1712498803:0;cd //home/zerohack/Downloads/larbs && l
+: 1712498821:0;v /home/zerohack/.config/fzf/key-bindings-rg.zsh
+: 1712498859:0;h
+: 1712498866:0;cd //home/zerohack/Downloads/larbs && l
+: 1712498876:0;cd //home/zerohack/.cache && l
+: 1712498893:0;v /home/zerohack/.config/fzf/key-bindings-rg.zsh
+: 1712498917:0;cd /home/zerohack/Downloads/larbs && l
+: 1712498923:0;cd /home/zerohack/.cache && l
+: 1712498929:0;D
+: 1712498930:0;pwd
+: 1712498942:0;cd /usr/share/zsh-theme-powerlevel10k
+: 1712498943:0;l
+: 1712498949:0;l config
+: 1712498959:0;v config/p10k-classic.zsh
+: 1712499050:0;l
+: 1712499055:0;cd config
+: 1712499055:0;l
+: 1712499059:0;v p10k-rainbow.zsh
+: 1712499212:0;..
+: 1712499212:0;l
+: 1712499220:0;v prompt_powerlevel9k_setup
+: 1712499235:0;v powerlevel9k.zsh-theme
+: 1712499251:0;nvim prompt_powerlevel10k_setup
+: 1712499259:0;l
+: 1712499260:0;ll
+: 1712499275:0;v powerlevel10k.zsh-theme.zwc
+: 1712499283:0;cd config
+: 1712499283:0;l
+: 1712499295:0;v p10k-classic.zsh
+: 1712499343:0;cd
+: 1712499359:0;cd /usr/share/oh-my-zsh/custom/themes
+: 1712499360:0;l
+: 1712499362:0;..
+: 1712499366:0;cd plugins && l
+: 1712499367:0;l
+: 1712499372:0;cd zsh-vim-mode
+: 1712499372:0;l
+: 1712499379:0;v LICENSE
+: 1712499382:0;v README.adoc
+: 1712499428:0;cf
+: 1712499429:0;v starship.toml
+: 1712499606:0;cf
+: 1712499623:0;v swww/Tokyo-Night/street.gif
+: 1712499627:0;v starship.toml
+: 1712499868:0;ip addr show | grep -i inet
+: 1712499932:0;cf
+: 1712499934:0;v starship.toml
+: 1712500209:0;ip addr show | grep -i inet
+: 1712500218:0;cf
+: 1712500220:0;ip addr show | grep -i inet
+: 1712500237:0;v starship.toml
+: 1712500299:0;cf
+: 1712500304:0;c
+: 1712500306:0;ip addr show | grep -i inet
+: 1712500310:0;v starship.toml
+: 1712500372:0;ip addr show | grep -i inet
+: 1712500416:0;c
+: 1712500418:0;pwd
+: 1712500460:0;ip addr show | grep -i inet
+: 1712500469:0;cf
+: 1712500472:0;ip addr show | grep -i inet
+: 1712500474:0;h
+: 1712500474:0;c
+: 1712500477:0;ip addr show | grep -i inet
+: 1712500554:0;cd
+: 1712500559:0;ip addr show | grep -i inet
+: 1712500562:0;cfz
+: 1712500587:0;pwd
+: 1712500598:0;l
+: 1712500619:0;ll
+: 1712500651:0;D
+: 1712500654:0;cfz
+: 1712500686:0;pwd
+: 1712500689:0;ip addr show | grep -i inet
+: 1712500693:0;D
+: 1712500700:0;d
+: 1712500703:0;m
+: 1712500705:0;pp
+: 1712500709:0;pwd
+: 1712500711:0;l
+: 1712500713:0;h
+: 1712500721:0;vv
+: 1712500745:0;d
+: 1712500746:0;pwd
+: 1712500747:0;D
+: 1712500779:0;cf
+: 1712500782:0;v starship.toml.bak
+: 1712500809:0;pwd
+: 1712500830:0;v starship.toml.bak
+: 1712500845:0;l
+: 1712500858:0;v nerd-font-symbols.toml
+: 1712500891:0;cp starship.toml nerd-font-symbols.toml.bak
+: 1712500893:0;l
+: 1712500900:0;nvim starship.toml
+: 1712500922:0;v starship.toml.bak
+: 1712500927:0;v starship.toml
+: 1712500943:0;v starship.toml.bak
+: 1712500953:0;v starship.toml
+: 1712500976:0;pwd
+: 1712500980:0;D
+: 1712500982:0;d
+: 1712500985:0;cf
+: 1712500989:0;v starship.toml
+: 1712501082:0;h
+: 1712501091:0;cf
+: 1712501129:0;cp nerd-font-symbols.toml.bak starship.toml
+: 1712501133:0;pwd
+: 1712501134:0;l
+: 1712501135:0;D
+: 1712501139:0;h
+: 1712501144:0;pp
+: 1712501151:0;..
+: 1712501152:0;m
+: 1712501154:0;..
+: 1712501156:0;vv
+: 1712501158:0;..
+: 1712501160:0;d
+: 1712501162:0;D
+: 1712501178:0;ip addr show | grep -i inet
+: 1712501206:0;pwd
+: 1712501208:0;htop
+: 1712501221:0;cd /home/zerohack/Downloads/larbs && l
+: 1712501224:0;D
+: 1712501230:0;cfz
+: 1712501258:0;cd /home/zerohack/Downloads/dotfiles && l
+: 1712501265:0;cfz
+: 1712501289:0;pwd
+: 1712501300:0;c
+: 1712501302:0;pwd
+: 1712501315:0;c
+: 1712501318:0;h
+: 1712501319:0;pwd
+: 1712501326:0;cd /home/zerohack/Downloads/larbs && l
+: 1712501328:0;pwd
+: 1712501332:0;cd dtos && l
+: 1712501334:0;pwd
+: 1712501340:0;h
+: 1712501343:0;ip addr show | grep -i inet
+: 1712512181:0;htop
+: 1712512188:0;D
+: 1712512193:0;cd larbs && l
+: 1712512197:0;v README.md
+: 1712512208:0;v archinstall.sh
+: 1712512247:0;v /home/zerohack/.config/shell/profile
+: 1712512284:0;v /home/zerohack/.config/fzf/key-bindings-rg.zsh
+: 1712512322:0;v /home/zerohack/.config/starship.toml
+: 1712512416:0;ip addr show | grep -i inet
+: 1712512429:0;cat archinstall.sh
+: 1712512441:0;v archinstall.sh
+: 1712512457:0;pwd
+: 1712512474:0;ip addr show | grep -i inet
+: 1712512489:0;pwd
+: 1712512493:0;ip addr show | grep -i inet
+: 1712512494:0;D
+: 1712512496:0;ip addr show | grep -i inet
+: 1712512510:0;v /home/zerohack/.config/starship.toml
+: 1712512562:0;l
+: 1712512566:0;l hyprdots
+: 1712512574:0;cd hyprdots && l
+: 1712512577:0;l
+: 1712512582:0;cd Scripts && l
+: 1712512588:0;..
+: 1712512588:0;l
+: 1712512590:0;ll
+: 1712512594:0;cd Configs && l
+: 1712512595:0;l
+: 1712512597:0;ll
+: 1712512602:0;cd .icons && l
+: 1712512604:0;cd default && l
+: 1712512606:0;..
+: 1712512608:0;l
+: 1712512610:0;ll
+: 1712512615:0;cd .local && l
+: 1712512616:0;l
+: 1712512617:0;cd share && l
+: 1712512618:0;l
+: 1712512621:0;htop
+: 1712512629:0;ñ
+: 1712512631:0;l
+: 1712512635:0;cd dolphin && l
+: 1712512638:0;cd view_properties && l
+: 1712512638:0;l
+: 1712512640:0;cd global && l
+: 1712512642:0;pwd
+: 1712512644:0;l
+: 1712512647:0;ip addr show | grep -i inet
+: 1712512684:0;l
+: 1712512686:0;pwd
+: 1712512687:0;ll
+: 1712512691:0;cat .directory
+: 1712512694:0;h
+: 1712512695:0;pwd
+: 1712512696:0;D
+: 1712512697:0;l
+: 1712512702:0;cd dotfiles/.local/share && l
+: 1712512704:0;l
+: 1712512708:0;pwd
+: 1712512721:0;c
+: 1712512722:0;l
+: 1712512726:0;htop
+: 1712581701:0;sudo pacman -Syy
+: 1712581749:0;htop
+: 1712581756:0;ip addr show | grep -i inet
+: 1712581821:0;cd /home/zerohack/Downloads/larbs && l
+: 1712581824:0;D
+: 1712581833:0;cd /home/zerohack/Downloads/backup && l
+: 1712581837:0;cd /home/zerohack/Downloads/dotfiles && l
+: 1712581851:0;cd /home/zerohack/Downloads/hyprdots && l
+: 1712581854:0;l
+: 1712581855:0;pwd
+: 1712581856:0;l
+: 1712581858:0;pwd
+: 1712581859:0;l
+: 1712581860:0;pd
+: 1712581861:0;pwd
+: 1712581863:0;l
+: 1712581866:0;cf
+: 1712581869:0;v starship.toml
+: 1712581898:0;ip addr show | grep -i inet
+: 1712581907:0;cd /home/zerohack/Downloads/hyprdots && l
+: 1712581911:0;cd Configs/.config/lsd && l
+: 1712581913:0;..
+: 1712581917:0;l
+: 1712581918:0;ll
+: 1712581924:0;cd /home/zerohack/Downloads/hyprdots && l
+: 1712581930:0;l Configs
+: 1712581935:0;ll Configs
+: 1712581944:0;v Configs/.zshrc
+: 1712581960:0;l
+: 1712581969:0;cd Configs && l
+: 1712581969:0;l
+: 1712581976:0;cd .local && l
+: 1712581977:0;cd share && l
+: 1712581982:0;cd /home/zerohack/Downloads/hyprdots && l
+: 1712581985:0;cd Configs && l
+: 1712581987:0;ll
+: 1712581994:0;cd .config && l
+: 1712582002:0;cd /home/zerohack/Downloads/hyprdots && l
+: 1712582005:0;D
+: 1712582008:0;htop
+: 1712582061:0;pidof foot
+: 1712582064:0;pidof footclient
+: 1712582138:0;pwd
+: 1712582140:0;D
+: 1712582486:0;htop
+: 1712582542:0;D
+: 1712582544:0;h
+: 1712582546:0;D
+: 1712582612:0;cd /home/zerohack/Downloads/larbs && l
+: 1712582617:0;cd /home/zerohack/Downloads/hyprdots && l
+: 1712582619:0;l
+: 1712582622:0;D
+: 1712582624:0;c
+: 1712582689:0;D
+: 1712582691:0;ip addr show | grep -i inet
+: 1712582723:0;v
+: 1712582735:0;pwd
+: 1712582736:0;l
+: 1712582739:0;cd backup && l
+: 1712582746:0;cat key-bindings-ag.zsh
+: 1712582752:0;v key-bindings-ag.zsh
+: 1712582760:0;D
+: 1712582765:0;pwd
+: 1712582765:0;l
+: 1712582769:0;pwd
+: 1712582813:0;ip addr show | grep -i inet
+: 1712582816:0;c
+: 1712583037:0;htop
+: 1712583087:0;D
+: 1712583141:0;htop
+: 1712583151:0;cd /home/zerohack/.config/fzf && l
+: 1712583161:0;cd /home/zerohack/Downloads/larbs && l
+: 1712583196:0;cd /home/zerohack/Downloads/backup && l
+: 1713965554:0;pwd
+: 1713965561:0;sudo pacman -Syy
+: 1713965569:0;l
+: 1713965576:0;cfz
+: 1713965607:0;v .config/starship.toml
+: 1713965626:0;D
+: 1713965628:0;P
+: 1713965630:0;h
+: 1713965635:0;m
+: 1713965639:0;pp
+: 1713965641:0;pwd
+: 1713965649:0;D
+: 1713965651:0;cf
+: 1713965654:0;D
+: 1713965658:0;htop
+: 1713965692:0;l
+: 1713965699:0;l backup
+: 1713965705:0;cd backup
+: 1713965706:0;ll
+: 1713965713:0;nvim .zshrc
+: 1713965732:0;cfz
+: 1713965742:0;nvim .zshrc
+: 1713965749:0;cfz
+: 1713965778:0;nvim .zshrc
+: 1713965791:0;cfz
+: 1713965800:0;pwd
+: 1713965801:0;D
+: 1713965822:0;mkdir -p theme
+: 1713965827:0;l
+: 1713965832:0;rm -rvf theme
+: 1713965858:0;mkdir -p themes
+: 1713965861:0;cd themes && l
+: 1713965761:0;git clone https://github.com/eucaue/foot --depth 1
+: 1713965766:0;l
+: 1713965768:0;cd foot && l
+: 1713965769:0;l
+: 1713965775:0;nvim readme.md
+: 1713965790:0;nvim rose-pines
+: 1713965795:0;ll
+: 1713965800:0;cat rose-pine
+: 1713965806:0;l
+: 1713965815:0;nvim rose-pine
+: 1713965864:0;..
+: 1713965879:0;git clone https://github.com/rose-pine/fzf --depth 1
+: 1713965885:0;cd fzf && l
+: 1713965886:0;l
+: 1713965887:0;ll
+: 1713965891:0;v template.sh
+: 1713965903:0;v readme.md
+: 1713965920:0;l
+: 1713965927:0;cf
+: 1713965930:0;cd foot && l
+: 1713965932:0;l
+: 1713965934:0;v foot.ini
+: 1713965959:0;v catppuccin
+: 1713965971:0;cat foot.ini > catppuccin
+: 1713965973:0;v catppuccin
+: 1713965982:0;v foot.ini
+: 1713965990:0;l
+: 1713965996:0;D
+: 1713965999:0;cd themes/foot && l
+: 1713966009:0;v rose-pine
+: 1713966037:0;cp rose-pine ~/.config/foot
+: 1713966040:0;l assets
+: 1713966045:0;cf
+: 1713966046:0;cd foot && l
+: 1713966055:0;cat rose-pine > foot.ini
+: 1713966059:0;pwd
+: 1713966070:0;D
+: 1713966073:0;cf
+: 1713966075:0;cd foot && l
+: 1713966076:0;l
+: 1713966078:0;v foot.ini
+: 1713966224:0;pwd
+: 1713966228:0;l
+: 1713966234:0;cf
+: 1713966236:0;cd foot && l
+: 1713966247:0;v catppuccin
+: 1713966276:0;v foot.ini
+: 1713966291:0;pwd
+: 1713966310:0;source ~/.config/zsh/.zshrc
+: 1713966314:0;pwd
+: 1713966322:0;cf
+: 1713966325:0;cd hypr && l
+: 1713966326:0;l
+: 1713966330:0;nvim hyprland.conf
+: 1713966401:0;htop
+: 1713966429:0;v keybindings.conf
+: 1713966477:0;l
+: 1713966480:0;ll
+: 1713966489:0;v windowrules.conf
+: 1713966497:0;v hyprland.conf
+: 1713966511:0;cf
+: 1713966515:0;cd hyprdots && l
+: 1713966519:0;cd scripts && l
+: 1713966554:0;l
+: 1713966556:0;D
+: 1713966559:0;pwd
+: 1713966560:0;l
+: 1713966566:0;cf
+: 1713966568:0;cd foot && l
+: 1713966573:0;v foot.ini
+: 1713966576:0;l
+: 1713966581:0;v foot.ini
+: 1713966589:0;v catppuccin
+: 1713966601:0;cf
+: 1713966604:0;cd hypr && l
+: 1713966607:0;v hyprland.conf
+: 1713966627:0;v keybindings.conf
+: 1713966952:0;pwd
+: 1713966954:0;l
+: 1713966957:0;pwd
+: 1713966958:0;l
+: 1713966959:0;ip addr show | grep -i inet
+: 1713966978:0;htop
+: 1713966985:0;cfz
+: 1713966999:0;l
+: 1713967000:0;cf
+: 1713967003:0;cd foot && l
+: 1713967004:0;l
+: 1713967007:0;D
+: 1713967012:0;cd themes/foot && l
+: 1713967014:0;l
+: 1713967019:0;v rose-pine-moon
+: 1713967039:0;cp rose-pine-moon ~/.config/foot
+: 1713967045:0;cf
+: 1713967047:0;cd foot && l
+: 1713967069:0;cat foot.ini > rose-pine
+: 1713967074:0;v rose-pine-moon
+: 1713967084:0;v foot.ini
+: 1713967089:0;v rose-pine-moon
+: 1713967111:0;v rose-pine
+: 1713967119:0;v rose-pine-moon
+: 1713967131:0;v rose-pine
+: 1713967135:0;l
+: 1713966936:0;cat rose-pine-moon > foot.ini
+: 1713966939:0;pwd
+: 1713966945:0;htop
+: 1713967042:0;pwd
+: 1713967045:0;ip addr show | grep -i inet
+: 1713967047:0;cfz
+: 1713967054:0;htop
+: 1713967063:0;cfz
+: 1713967069:0;pwd
+: 1713967069:0;D
+: 1713967071:0;h
+: 1713967073:0;pp
+: 1713967075:0;..
+: 1713967080:0;m
+: 1713967082:0;D
+: 1713967083:0;pwd
+: 1713967086:0;ll
+: 1713967087:0;D
+: 1713967091:0;cd themes/fzf && l
+: 1713967097:0;v template.sh
+: 1713967105:0;cfp
+: 1713967142:0;pwd
+: 1713967142:0;D
+: 1713967143:0;l
+: 1713967148:0;htop
+: 1713967152:0;D
+: 1713967153:0;pwd
+: 1713967153:0;l
+: 1713967157:0;pwd
+: 1713967157:0;l
+: 1713967293:0;pwd
+: 1713967294:0;D
+: 1713967308:0;pwd
+: 1713967309:0;l
+: 1713967312:0;pwd
+: 1713967313:0;l
+: 1713967317:0;D
+: 1713967319:0;cd backup && l
+: 1713967320:0;ll
+: 1714127177:0;D
+: 1714126952:0;l backup
+: 1714126957:0;cd backup && l
+: 1714126958:0;ll
+: 1714126963:0;cf
+: 1714126967:0;l zsh
+: 1714126981:0;cd zsh && l
+: 1714126982:0;ll
+: 1714126989:0;du -ckxh | sort -n
+: 1714126991:0;l
+: 1714126992:0;ll
+: 1714127004:0;h
+: 1714127047:0;cd .parallel && l
+: 1714127048:0;D
+: 1714127050:0;cd backup && l
+: 1714127076:0;cp ~/.config/zsh/.zshrc .config
+: 1714127077:0;l
+: 1714127078:0;ll
+: 1714127100:0;rm -rvf .config
+: 1714127129:0;cp ~/.config/zsh/.zshrc .config/zsh/
+: 1714127146:0;cp -R ~/.config/zsh/.zshrc .
+: 1714127152:0;ll
+: 1714127157:0;nvim .zshr
+: 1714127160:0;v .zshrc
+: 1714127168:0;l
+: 1714127174:0;cf
+: 1714127175:0;cd zsh && l
+: 1714127177:0;du -ckxh | sort -n
+: 1714127196:0;D
+: 1714127197:0;cd backup && l
+: 1714127198:0;l
+: 1714127199:0;ll
+: 1714127210:0;mkdir -p .config
+: 1714127211:0;ll
+: 1714127218:0;cp -R ~/.config/zsh/.zshrc .config
+: 1714127226:0;cd .config && l
+: 1714127226:0;l
+: 1714127227:0;ll
+: 1714127232:0;rm -rvf .zshrc
+: 1714127235:0;..
+: 1714127245:0;cp -R ~/.config/zsh/.zshrc .config/zsh
+: 1714127248:0;ll
+: 1714127251:0;cd .config && l
+: 1714127252:0;l
+: 1714127267:0;rm -rvf zsh
+: 1714127269:0;ll
+: 1714127270:0;..
+: 1714127281:0;cp -R ~/.config/zsh/.zshrc .config/
+: 1714127284:0;cd .config && l
+: 1714127286:0;ll
+: 1714127301:0;rm -rvf .zshrc
+: 1714127302:0;..
+: 1714127302:0;l
+: 1714127304:0;ll
+: 1714127312:0;cd .config && l
+: 1714127313:0;ll
+: 1714127318:0;mkdir -p zsh
+: 1714127319:0;l
+: 1714127320:0;..
+: 1714127356:0;cp ~/.config/zsh/.zshrc .config/zsh/
+: 1714127361:0;cfz
+: 1714127370:0;v .config/zsh/.zshrc
+: 1714127374:0;cfz
+: 1714127382:0;v .config/zsh/.zshrc
+: 1714127388:0;v .zshrc
+: 1714127405:0;v .config/zsh/.zshrc
+: 1714127439:0;l
+: 1714127441:0;ll
+: 1714127444:0;rm .zshrc
+: 1714127446:0;l
+: 1714127447:0;ll
+: 1714127464:0;mkdir -p .config/foot
+: 1714127472:0;cd .config && l
+: 1714127473:0;l
+: 1714127478:0;rm -rvf foot
+: 1714127479:0;..
+: 1714127506:0;cp -R ~/.config/foot .config/
+: 1714127509:0;cd .config/foot && l
+: 1714127512:0;l
+: 1714127516:0;du -ckxh | sort -n
+: 1714127518:0;ll
+: 1714127522:0;..
+: 1714127522:0;l
+: 1714127526:0;D
+: 1714127530:0;cd backup && l
+: 1714127531:0;ll
+: 1714127536:0;cd .config && l
+: 1714127542:0;cd foot && l
+: 1714127543:0;D
+: 1714127544:0;cd backup && l
+: 1714127546:0;ll
+: 1714127553:0;cfp
+: 1714127560:0;cf
+: 1714127562:0;cd shell && l
+: 1714127566:0;ll
+: 1714127610:0;D
+: 1714127636:0;cd backup && l
+: 1714127637:0;l
+: 1714127638:0;ll
+: 1714127641:0;cfp
+: 1714127682:0;mkdir -p .config/shell
+: 1714127689:0;cd .config && l
+: 1714127690:0;ll
+: 1714127693:0;..
+: 1714127706:0;cp ~/.config/shell/profile .config/shell
+: 1714127709:0;cd .config && l
+: 1714127711:0;l shell
+: 1714127714:0;cd shell && l
+: 1714127715:0;v profile
+: 1714127720:0;cfp
+: 1714127723:0;..
+: 1714127724:0;cf
+: 1714127726:0;cd hypr && l
+: 1714127733:0;D
+: 1714127734:0;cd backup && l
+: 1714127747:0;mkdir -p .config/hypr
+: 1714127760:0;cp ~/.config/hypr/hyprland.conf .config/hypr
+: 1714127772:0;cp ~/.config/hypr/keybindings.conf .config/hypr
+: 1714127778:0;cf
+: 1714127781:0;cd hypr && l
+: 1714127785:0;v hyprland.conf
+: 1714127795:0;v keybindings.conf
+: 1714127802:0;l
+: 1714127806:0;v windowrules.conf
+: 1714127839:0;v animations.conf
+: 1714127852:0;cd themes && l
+: 1714127854:0;ll
+: 1714127855:0;l
+: 1714127859:0;v Catppuccin-Mocha.conf
+: 1714127877:0;ll
+: 1714127886:0;D
+: 1714127887:0;cd backup && l
+: 1714127896:0;mkdir -p .config/hypr/themes
+: 1714127912:0;cp ~/.config/hypr/themes/Catppuccin-Mocha.conf .config/hypr/themes
+: 1714127917:0;cd .config/hypr/themes && l
+: 1714127918:0;l
+: 1714127920:0;v Catppuccin-Mocha.conf
+: 1714127929:0;pwd
+: 1714127934:0;D
+: 1714127935:0;cd backup && l
+: 1714127936:0;ll
+: 1714127939:0;cd .config && l
+: 1714127944:0;du -ckxh | sort -n
+: 1714127949:0;ll
+: 1714127953:0;h
+: 1714127954:0;ll
+: 1714127990:0;file .zprofile
+: 1714128022:0;cd .local/share
+: 1714128023:0;l
+: 1714128034:0;D
+: 1714128035:0;cd backup && l
+: 1714128050:0;mkdir -p .local/share
+: 1714128051:0;ll
+: 1714128067:0;cp ~/.local/share/history .local/share
