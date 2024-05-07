@@ -2,7 +2,63 @@
 
 # Cleaning the TTY.
 clear
+set -e
 
+# The script that use this file should have two lines on its top as follows:
+cd "$(dirname "$0")"
+#export base="$(pwd)"
+
+function try { "$@" || sleep 0; }
+function v() {
+  echo -e "####################################################"
+  echo -e "\e[34m[$0]: Next command:\e[0m"
+  echo -e "\e[32m$@\e[0m"
+  execute=true
+  if $ask;then
+    while true;do
+      echo -e "\e[34mExecute? \e[0m"
+      echo "  y = Yes"
+      echo "  e = Exit now"
+      echo "  s = Skip this command (NOT recommended - your setup might not work correctly)"
+      echo "  yesforall = Yes and don't ask again; NOT recommended unless you really sure"
+      read -p "====> " p
+      case $p in
+        [yY]) echo -e "\e[34mOK, executing...\e[0m" ;break ;;
+        [eE]) echo -e "\e[34mExiting...\e[0m" ;exit ;break ;;
+        [sS]) echo -e "\e[34mAlright, skipping this one...\e[0m" ;execute=false ;break ;;
+        "yesforall") echo -e "\e[34mAlright, won't ask again. Executing...\e[0m"; ask=false ;break ;;
+        *) echo -e "\e[31mPlease enter [y/e/s/yesforall].\e[0m";;
+      esac
+    done
+  fi
+  if $execute;then x "$@";else
+    echo -e "\e[33m[$0]: Skipped \"$@\"\e[0m"
+  fi
+}
+# When use v() for a defined function, use x() INSIDE its definition to catch errors.
+function x() {
+  if "$@";then cmdstatus=0;else cmdstatus=1;fi # 0=normal; 1=failed; 2=failed but ignored
+  while [ $cmdstatus == 1 ] ;do
+    echo -e "\e[31m[$0]: Command \"\e[32m$@\e[31m\" has failed."
+    echo -e "You may need to resolve the problem manually BEFORE repeating this command.\e[0m"
+    echo "  r = Repeat this command (DEFAULT)"
+    echo "  e = Exit now"
+    echo "  i = Ignore this error and continue (your setup might not work correctly)"
+    read -p " [R/e/i]: " p
+    case $p in
+      [iI]) echo -e "\e[34mAlright, ignore and continue...\e[0m";cmdstatus=2;;
+      [eE]) echo -e "\e[34mAlright, will exit.\e[0m";break;;
+      *) echo -e "\e[34mOK, repeating...\e[0m"
+         if "$@";then cmdstatus=0;else cmdstatus=1;fi
+         ;;
+    esac
+  done
+  case $cmdstatus in
+    0) echo -e "\e[34m[$0]: Command \"\e[32m$@\e[34m\" finished.\e[0m";;
+    1) echo -e "\e[31m[$0]: Command \"\e[32m$@\e[31m\" has failed. Exiting...\e[0m";exit 1;;
+    2) echo -e "\e[31m[$0]: Command \"\e[32m$@\e[31m\" has failed but ignored by user.\e[0m";;
+  esac
+}
 
 # Selecting the kernel flavor to install.
 kernel_selector () {
@@ -61,7 +117,7 @@ fi
 read -r -p "Please insert the locale you use in this format (xx_XX): " locale
 
 # Choose keyboard layout.
-read -r -p "Please insert the keyboard layout you use: " kblayout
+read -r -p "Please insert the keyboard layout you use (la-latin1): " kblayout
 
 
 
@@ -70,10 +126,11 @@ read -r -p "Please insert the keyboard layout you use: " kblayout
 
 # Updating the live environment usually causes more problems than its worth, and quite often can't be done without remounting cowspace with more capacity, especially at the end of any given month.
 
-pacman -S --noconfirm archlinux-keyring
-pacman-key --init
-pacman-key --populate archlinux
-pacman -Sy
+v pacman -S --noconfirm archlinux-keyring
+v pacman-key --init
+v pacman-key --populate archlinux
+v reflector --verbose -l 50 -n 20 -p http --sort rate --save /etc/pacman.d/mirrorlist
+v pacman -Sy
 
 # Installing curl
 pacman -S --noconfirm curl
@@ -208,10 +265,14 @@ mkdir /mnt/home
 #mount UUID=$home_UUID /mnt/home
 mount $home /mnt/home
 
+#readarray -t pkglist < $HOME/.cache/dots-hyprland/scriptdata/dependencies.conf
+readarray -t pkglist < ./dependencies.conf
+
 # Pacstrap (setting up a base sytem onto the new root).
 # As I said above, I am considering replacing gnome-software with pamac-flatpak-gnome as PackageKit seems very buggy on Arch Linux right now.
 echo "Installing the base system (it may take a while)."
-pacstrap /mnt base ${kernel} ${microcode} linux-firmware grub grub-btrfs snapper snap-pac efibootmgr sudo networkmanager apparmor firewalld zram-generator reflector chrony sbctl openssh fwupd ntfs-3g neovim os-prober zsh starship neofetch reflector git dos2unix man-db man-pages texinfo inotify-tools
+# execute per element of the array $pkglist
+for i in "${pkglist[@]}";do v pacstrap /mnt base ${kernel} ${microcode} $i;done
 
 # Generating /etc/fstab.
 echo "Generating a new fstab."
