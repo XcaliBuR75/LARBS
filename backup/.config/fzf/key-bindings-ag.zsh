@@ -40,8 +40,7 @@ fi
 
 # ALT-L - Paste the selected file path(s) into the command line
 __fsel() {
-  local cmd="${FZF_ALT_L_COMMAND:-"command find -L . -mindepth 1 \\( -path '*/\\.git*' -o -fstype 'sysfs' -o -fstype 'devfs' -o -fstype 'devtmpfs' -o -fstype 'proc' \\) -prune \
-    -o -type d -print -o -type l -print 2> /dev/null | cut -b3-"}"
+  local cmd="${FZF_ALT_L_COMMAND:-"command ag --hidden --ignore '\\.gitignore' --ignore-dir '\\.*git*' --null -g '\\.' 2>/dev/null | xargs -0 dirname | LC_ALL=C sort -u"}"
   setopt localoptions pipefail no_aliases 2> /dev/null
   local item
   eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS $FZF_ALT_L_OPTS" $(__fzfcmd) +m "$@" | while read item; do
@@ -71,10 +70,11 @@ bindkey -M viins '\el' fzf-file-widget
 
 # ALT-D - Paste the selected file path(s) into the command line
 __fsel1() {
-  local cmd="${FZF_ALT_D_COMMAND:-"command rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' 2>/dev/null $HOME"}"
+  cd "$HOME"
+  local cmd="${FZF_ALT_D_COMMAND:-"command ag --hidden --ignore '\\.gitignore' --ignore-dir '\\.*git*' -g '\\./' 2>/dev/null"}"
   setopt localoptions pipefail no_aliases 2> /dev/null
   local item
-  eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" --color=pointer:#A6E3A1 $FZF_ALT_D_OPTS" $(__fzfcmd) +m "$@" | while read item; do
+  eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" --color=pointer:#A6E3A1 $FZF_ALT_D_OPTS" $(__fzfcmd) +m "$@" | while read item; do
     echo -n "${(q)item}"
   done
   local ret=$?
@@ -88,7 +88,7 @@ __fzfcmd() {
 }
 
 fzf-file1-widget() {
-LBUFFER="v ${LBUFFER}$(__fsel1)"
+LBUFFER="v $HOME/${LBUFFER}$(__fsel1)"
   zle accept-line
   local ret=$?
   zle reset-prompt
@@ -101,10 +101,10 @@ bindkey -M viins '\ed' fzf-file1-widget
 
 # ALT-A - Concatenate files and print on the standard output
 __fsel2() {
-  local cmd="${FZF_ALT_D_COMMAND:-"command rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' 2>/dev/null"}"
+  local cmd="${FZF_ALT_D_COMMAND:-"command ag --hidden --ignore '\\.gitignore' --ignore-dir '\\.*git*' -g '\\./' 2>/dev/null"}"
   setopt localoptions pipefail no_aliases 2> /dev/null
   local item
-  eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" --color=pointer:#BAC2DE  --preview 'bat --color=always --style=plain --line-range=:500 {}' $FZF_ALT_D_OPTS" $(__fzfcmd) +m "$@" | while read item; do
+  eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" --color=pointer:#BAC2DE --preview 'bat --color=always --style=plain --line-range=:500 {}' $FZF_ALT_D_OPTS" $(__fzfcmd) +m "$@" | while read item; do
     echo -n "${(q)item}"
   done
   local ret=$?
@@ -131,10 +131,10 @@ bindkey -M viins '\ea' fzf-file2-widget
 
 # ALT-S - Concatenate files and print on the standard output
 __fsel3() {
-  local cmd="${FZF_ALT_D_COMMAND:-"command rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' 2>/dev/null"}"
+  local cmd="${FZF_ALT_D_COMMAND:-"command ag --hidden --ignore '\\.gitignore' --ignore-dir '\\.*git*' -g '\\./' 2>/dev/null"}"
   setopt localoptions pipefail no_aliases 2> /dev/null
   local item
-  eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" --color=pointer:#A6E3A1  --preview 'bat --color=always --style=plain --line-range=:500 {}' $FZF_ALT_D_OPTS" $(__fzfcmd) +m "$@" | while read item; do
+  eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" --color=pointer:#A6E3A1 --preview 'bat --color=always --style=plain --line-range=:500 {}' $FZF_ALT_D_OPTS" $(__fzfcmd) +m "$@" | while read item; do
     echo -n "${(q)item}"
   done
   local ret=$?
@@ -161,7 +161,8 @@ bindkey -M viins '\es' fzf-file3-widget
 
 # ALT-O - cd into the selected directory
 fzf-cd-widget() {
-local cmd="${FZF_ALT_O_COMMAND:-"command rg -u --hidden --no-config --files --glob '!\\.*git*' --glob '!\\.npm*' --null 2>/dev/null $HOME | xargs -0 dirname | LC_ALL=C sort -u"}"
+cd "$HOME"
+local cmd="${FZF_ALT_O_COMMAND:-"command ag --hidden --ignore '\\.gitignore' --ignore-dir '\\.*git*' --null -g '\\.' 2>/dev/null | xargs -0 dirname | LC_ALL=C sort -u | sed '1d'"}"
   setopt localoptions pipefail no_aliases 2> /dev/null
   local dir="$(eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" $FZF_ALT_O_OPTS" $(__fzfcmd) +m)"
   if [[ -z "$dir" ]]; then
@@ -169,7 +170,7 @@ local cmd="${FZF_ALT_O_COMMAND:-"command rg -u --hidden --no-config --files --gl
     return 0
   fi
   zle push-line # Clear buffer. Auto-restored on next prompt.
-  BUFFER="cd /${(q)dir} && l"
+  BUFFER="cd ${(q)dir} && l"
   zle accept-line
   local ret=$?
   unset dir # ensure this doesn't end up appearing in prompt expansion
@@ -183,8 +184,7 @@ bindkey -M viins '\eo' fzf-cd-widget
 
 # ALT-P - cd into the selected directory
 fzf-cdh-widget() {
-  local cmd="${FZF_ALT_P_COMMAND:-"command find -L . -mindepth 1 \\( -path '*/\\.git*' -o -fstype 'sysfs' -o -fstype 'devfs' -o -fstype 'devtmpfs' -o -fstype 'proc' \\) -prune \
-    -o -type d -print 2> /dev/null | cut -b3-"}"
+  local cmd="${FZF_ALT_P_COMMAND:-"command ag --hidden --ignore '\\.gitignore' --ignore-dir '\\.*git*' --null -g '\\.' 2>/dev/null | xargs -0 dirname | LC_ALL=C sort -u"}"
   setopt localoptions pipefail no_aliases 2> /dev/null
   local dir="$(eval "$cmd" | FZF_DEFAULT_OPTS="--height ${FZF_TMUX_HEIGHT:-40%} --reverse --cycle --bind=ctrl-z:ignore,tab:toggle-down,btab:toggle-up $FZF_DEFAULT_OPTS --pointer="" $FZF_ALT_P_OPTS" $(__fzfcmd) +m)"
   if [[ -z "$dir" ]]; then
